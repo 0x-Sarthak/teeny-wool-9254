@@ -1,0 +1,63 @@
+
+.dropContainerwomen{
+    position: absolute;
+    left: 20%;
+    top: -70%;
+    width: 100%;
+    /* height: 30%; */
+    z-index: 100;
+    transform: translate(-17%, -64%);
+    /* transition: 1000ms; */
+    /* border: 1px solid black; */
+  
+}
+/* #gifts:hover, .dropContainer{
+    top: 70%;
+} */
+.showDivwomen{
+    top: 70%;
+}
+
+.dropCartwomen{
+    /* border: 1px solid yellow; */
+    width: 70%;
+    display: flex;
+    /* justify-content: space-between; */
+    /* background-color: teal; */
+}
+.droprightwomen{
+    margin-left: 10px;
+    width: 25%;
+    background-color: rgba(128, 128, 128, 0.212);
+}
+.dropLeftwomen{
+    width: 70%;
+}
+.giftsHeadingwomen{
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+.allGiftsRight{
+    margin: 17px 0px 0px 10px;
+}
+.allGiftswomen{
+    margin: 10px 0px 0px 10px;
+}
+.topDivwomen{
+    /* border:  1px solid yellow; */
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+.allDivwomen{
+    /* width: 23%; */
+    width: 80%;
+    /* background-color: red; */
+}
+.bottomDivwomen{
+    /* background-color: teal; */
+    width: 60%;
+    margin-top: 10px;
+    display: flex;
+}

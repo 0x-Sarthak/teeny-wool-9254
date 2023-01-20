@@ -1,0 +1,73 @@
+
+.dropContainerKids{
+    position: absolute;
+    left: 20%;
+    top: -70%;
+    width: 100%;
+    /* height: 30%; */
+    z-index: 100;
+    transform: translate(-17%, -52%);
+    /* transition: 1000ms; */
+    /* border: 1px solid red; */
+  
+}
+/* #gifts:hover, .dropContainer{
+    top: 70%;
+} */
+.showDivKids{
+    top: 70%;
+}
+
+.dropCartKids{
+    /* border: 1px solid green; */
+    width: 70%;
+    display: flex;
+    /* justify-content: space-between; */
+    /* background-color: teal; */
+}
+.droprightKids{
+    margin-left: 10px;
+    width: 25%;
+    background-color: rgba(128, 128, 128, 0.212);
+}
+.dropLeftKids{
+    width: 70%;
+}
+.giftsHeadingKids{
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+.allGiftsRightKids{
+    margin: 17px 0px 0px 10px;
+}
+.allGiftsKids{
+    margin: 10px 0px 0px 10px;
+}
+.topDivKids{
+    /* border:  1px solid yellow; */
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+.allDivbottKids{
+   /* background-color: red;  */
+   width: 80%;
+}
+/* #allDivbottMen{
+    margin-left: 15px;
+} */
+.bottomDivKids{
+    /* background-color: teal; */
+    width: 100%;
+    margin: 10px 0px 0px 10px;
+    display: flex;
+    /* justify-content: space-between; */ 
+}
+.giftsHeadingbott{
+    font-size: 16px;
+    font-weight: bold;
+}
+.allGiftsbott{
+    margin-top: 15px;
+}
