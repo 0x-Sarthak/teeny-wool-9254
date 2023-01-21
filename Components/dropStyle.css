@@ -1,0 +1,62 @@
+
+.dropContainer{
+    position: absolute;
+    left: 20%;
+    top: -70%;
+    width: 100%;
+    /* height: 30%; */
+    z-index: 100;
+    transform: translate(-17%, -64%);
+    /* transition: 1000ms; */
+    /* border: 1px solid red; */
+  
+}
+/* #gifts:hover, .dropContainer{
+    top: 70%;
+} */
+.showDiv{
+    top: 70%;
+}
+
+.dropCart{
+    /* border: 1px solid green; */
+    width: 70%;
+    display: flex;
+    /* justify-content: space-between; */
+    /* background-color: teal; */
+}
+.dropright{
+    margin-left: 10px;
+    width: 25%;
+    background-color: rgba(128, 128, 128, 0.212);
+}
+.dropLeft{
+    width: 70%;
+}
+.giftsHeading{
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+.allGifts{
+    margin: 10px 0px 0px 10px;
+}
+.allGiftsRight{
+    margin: 17px 0px 0px 10px;
+}
+.topDiv{
+    /* border:  1px solid yellow; */
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+}
+.allDiv{
+    /* width: 23%; */
+    width: 80%;
+    /* background-color: red; */
+}
+.bottomDiv{
+    width: 60%;
+    margin-top: 10px;
+    display: flex;
+}

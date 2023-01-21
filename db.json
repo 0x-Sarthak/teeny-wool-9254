@@ -1,0 +1,2201 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201634_W73000_B_101_T10L00&layer=comp&$DWP_PRODUCT_PLP_DESKTOP_t1$",
+      "title": "Nautica Classic Fit Stretch Cotton Shirt",
+      "disc": "This shirt is crafted in stretch cotton that keeps its shape and stays comfortable, so it will be ready to move with you wherever the day takes you, A classic fit and crisp tailoring finish the look.",
+      "category": "Shirts",
+      "brand": "Nautica",
+      "price": 79.5,
+      "size": "M",
+      "id": 2
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3202670_EMBRPCFY0647_B_284_T10L00&layer=comp&$DWP_PRODUCT_PLP_DESKTOP_t1$",
+      "title": "Ultraflex Stretch Flat Front Pants",
+      "disc": "Featuring a flat front design and stretch fabric, these pleated pants from Lauren Ralph Lauren will become a staple in your wardrobe.",
+      "category": "Pants",
+      "brand": "Lauren Ralph Lauren",
+      "price": 100,
+      "size": "L",
+      "id": 3
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710879071001_B_020&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Fleece Quarter Zip Hoodie",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Hoodie",
+      "brand": "Polo Ralph Lauren",
+      "price": 114,
+      "size": "XL",
+      "id": 4
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3203796_35523FA0000501_B_630&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Easy Care Long Sleeve Woven Plaid Dress Shirt",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirt",
+      "brand": "Saddlebred",
+      "price": 40,
+      "size": "L",
+      "id": 5
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3202965_T9878_A_260&$DWP_PRODUCT_PDP_LARGE$",
+      "title": "Slim Khaki Pants",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirt",
+      "brand": "TRUE CRAFT",
+      "price": 59.5,
+      "size": "M",
+      "id": 6
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3205465_1476671_B_024&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirt",
+      "brand": "Columbia",
+      "price": 34.99,
+      "size": "L",
+      "id": 7
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3205465_1861681_A_464&$DWP_PRODUCT_REC_DESKTOP$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirt",
+      "brand": "Columbia",
+      "price": 40.99,
+      "size": "L",
+      "id": 8
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3205465_1639261_A_691_T10L00&layer=comp&$DWP_PRODUCT_REC_DESKTOP$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirt",
+      "brand": "Columbia",
+      "price": 45.99,
+      "size": "XL",
+      "id": 9
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3205465_2013331_A_220&$DWP_PRODUCT_REC_DESKTOP$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirt",
+      "brand": "Levis",
+      "price": 50.99,
+      "size": "XL",
+      "id": 10
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3205465_2013321_A_010&$DWP_PRODUCT_REC_DESKTOP$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirt",
+      "brand": "Levis",
+      "price": 52.99,
+      "size": "L",
+      "id": 11
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3205465_2013321_A_010&$DWP_PRODUCT_REC_DESKTOP$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jacket",
+      "brand": "Levis",
+      "price": 52.99,
+      "size": "L",
+      "id": 12
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3205465_1476671_A_024&$DWP_PRODUCT_PDP_LARGE$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jacket",
+      "brand": "Levis",
+      "price": 52.99,
+      "size": "L",
+      "id": 13
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3205465_1639261_A_691_T10L00&layer=comp&$DWP_PRODUCT_REC_DESKTOP$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jacket",
+      "brand": "Levis",
+      "price": 45.99,
+      "size": "XL",
+      "id": 14
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3205465_1911111_A_010&$DWP_PRODUCT_REC_DESKTOP$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jacket",
+      "brand": "Levis",
+      "price": 45.99,
+      "size": "XL",
+      "id": 15
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3205465_1952391_A_010&$DWP_PRODUCT_REC_DESKTOP$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jacket",
+      "brand": "Levis",
+      "price": 30.99,
+      "size": "M",
+      "id": 16
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3205465_1910711_A_010&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jacket",
+      "brand": "Levis",
+      "price": 70.99,
+      "size": "L",
+      "id": 17
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3203577_36523YRT000011_A_003&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jacket",
+      "brand": "Levis",
+      "price": 20.99,
+      "size": "L",
+      "id": 18
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3204684_158AU855_A_203_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jacket",
+      "brand": "Colombia",
+      "price": 80.99,
+      "size": "XL",
+      "id": 19
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3202667_CF98CF17KS_A_001&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jacket",
+      "brand": "Colombia",
+      "price": 380.99,
+      "size": "XL",
+      "id": 20
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3205465_1698001_A_012&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jacket",
+      "brand": "Colombia",
+      "price": 180.99,
+      "size": "M",
+      "id": 21
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200168_IZ2233C2_B_001&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jacket",
+      "brand": "Colombia",
+      "price": 110.99,
+      "size": "M",
+      "id": 22
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3203786_SP1854_B_001&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jacket",
+      "brand": "Colombia",
+      "price": 115.99,
+      "size": "M",
+      "id": 23
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3203977_D310RPPE0001_A_415&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jacket",
+      "brand": "Colombia",
+      "price": 115.99,
+      "size": "M",
+      "id": 24
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3205465_1911111_B_397&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jacket",
+      "brand": "Colombia",
+      "price": 125.99,
+      "size": "L",
+      "id": 25
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3203786_11712041_A_020&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Levis",
+      "brand": "Colombia",
+      "price": 80,
+      "size": "L",
+      "id": 26
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3203966_11520541024_B_090&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Levis",
+      "brand": "Colombia",
+      "price": 180,
+      "size": "L",
+      "id": 27
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3204009_11743233_B_420&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jacket",
+      "brand": "Levis",
+      "price": 180,
+      "size": "L",
+      "id": 28
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3205465_1820941_B_012&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jacket",
+      "brand": "Levis",
+      "price": 80,
+      "size": "L",
+      "id": 29
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3203315_WV424618H_B_419&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jacket",
+      "brand": "Levis",
+      "price": 60,
+      "size": "L",
+      "id": 30
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200141_H46100_B_408&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jacket",
+      "brand": "Adidas",
+      "price": 160,
+      "size": "L",
+      "id": 31
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200141_H46099_B_001&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jacket",
+      "brand": "Adidas",
+      "price": 140,
+      "size": "XL",
+      "id": 32
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_11725535_B_410&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jacket",
+      "brand": "Polo",
+      "price": 140,
+      "size": "XL",
+      "id": 33
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3203315_WV421647H_B_001&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jacket",
+      "brand": "Nautica",
+      "price": 90.5,
+      "size": "L",
+      "id": 34
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3203388_LM8RS407_B_239&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jacket",
+      "brand": "Nautica",
+      "price": 190.5,
+      "size": "L",
+      "id": 35
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3203454_V7472P586VFA_B_341&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jacket",
+      "brand": "Nautica",
+      "price": 190.5,
+      "size": "L",
+      "id": 36
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3203867_CM32OW184_B_035&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jacket",
+      "brand": "Nautica",
+      "price": 50.5,
+      "size": "L",
+      "id": 37
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3203979_32923FAT000012_B_309&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jacket",
+      "brand": "Nautica",
+      "price": 40.5,
+      "size": "XL",
+      "id": 38
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3203991_B2250G2_B_205&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Steens Mountain™ Full Zip 2.0 Fleece Jacket",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jacket",
+      "brand": "Levis",
+      "price": 140.5,
+      "size": "XL",
+      "id": 39
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_295070001_A_001&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 70.5,
+      "size": "XL",
+      "id": 40
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_045111390_B_420&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 60.5,
+      "size": "XL",
+      "id": 41
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005504834_A_498_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 62.5,
+      "size": "L",
+      "id": 42
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005590421_A_420&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 69.5,
+      "size": "L",
+      "id": 43
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005010193_B_458_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 69.5,
+      "size": "L",
+      "id": 44
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005052195_A_401&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 89.5,
+      "size": "L",
+      "id": 45
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_055270452_B_405_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 99.5,
+      "size": "L",
+      "id": 46
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005590239_B_001_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 79.5,
+      "size": "L",
+      "id": 47
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_181810422_B_001&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 69.5,
+      "size": "XL",
+      "id": 48
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_045111163_A_402_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 89.5,
+      "size": "XL",
+      "id": 49
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005140809_A_421_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 89.5,
+      "size": "XL",
+      "id": 50
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005051456_A_401_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 109.5,
+      "size": "XL",
+      "id": 51
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005051456_A_401_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 100.5,
+      "size": "XL",
+      "id": 52
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005051456_A_401_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 105.5,
+      "size": "XL",
+      "id": 53
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005590530_B_450&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 65.5,
+      "size": "M",
+      "id": 54
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005590530_B_450&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 67.5,
+      "size": "M",
+      "id": 55
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005590530_B_450&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 67.5,
+      "size": "M",
+      "id": 56
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005590530_B_450&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 67.5,
+      "size": "L",
+      "id": 57
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005590530_B_450&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 90.5,
+      "size": "L",
+      "id": 58
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005590530_B_450&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 120.5,
+      "size": "L",
+      "id": 59
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005590530_B_450&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 124.5,
+      "size": "L",
+      "id": 60
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005590530_B_450&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 124.5,
+      "size": "M",
+      "id": 61
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005592765_A_417_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 124.5,
+      "size": "M",
+      "id": 62
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005592765_A_417_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 68.5,
+      "size": "M",
+      "id": 63
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005592765_A_417_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 68.5,
+      "size": "L",
+      "id": 64
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005592765_A_417_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 68.5,
+      "size": "XL",
+      "id": 65
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005592765_A_417_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 68.5,
+      "size": "XXL",
+      "id": 66
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005592765_A_417_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 120.5,
+      "size": "XXL",
+      "id": 67
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005592765_A_417_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 120.5,
+      "size": "XL",
+      "id": 68
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005140531_B_250_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 120.5,
+      "size": "XL",
+      "id": 69
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005140531_B_250_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 140.5,
+      "size": "XL",
+      "id": 70
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005140531_B_250_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 140.5,
+      "size": "L",
+      "id": 71
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005140531_B_250_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 90.5,
+      "size": "L",
+      "id": 72
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005140531_B_250_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 90.5,
+      "size": "M",
+      "id": 73
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005140531_B_250_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 102.5,
+      "size": "M",
+      "id": 74
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_055270527_B_420_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 102.5,
+      "size": "M",
+      "id": 75
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_055270527_B_420_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 65.5,
+      "size": "M",
+      "id": 76
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_055270527_B_420_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 65.5,
+      "size": "L",
+      "id": 77
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_055270527_B_420_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 165.5,
+      "size": "L",
+      "id": 78
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_055270527_B_420_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 165.5,
+      "size": "XL",
+      "id": 79
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_055270527_B_420_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 105.5,
+      "size": "XL",
+      "id": 80
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005052309_B_420&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 105.5,
+      "size": "XL",
+      "id": 81
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005052309_B_420&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 75.5,
+      "size": "XL",
+      "id": 82
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005052309_B_420&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 79.5,
+      "size": "XXL",
+      "id": 83
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005052309_B_420&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 105.5,
+      "size": "XXL",
+      "id": 84
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005052309_B_420&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 105.5,
+      "size": "L",
+      "id": 85
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005052309_B_420&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 105.5,
+      "size": "M",
+      "id": 86
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_005052309_B_420&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 105.5,
+      "size": "S",
+      "id": 87
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_045111390_B_421_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 85.5,
+      "size": "S",
+      "id": 88
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_045111390_B_421_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 185.5,
+      "size": "S",
+      "id": 89
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_045111390_B_421_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 185.5,
+      "size": "M",
+      "id": 90
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_045111390_B_421_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 85.5,
+      "size": "M",
+      "id": 91
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_045111390_B_421_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 85.5,
+      "size": "L",
+      "id": 92
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_045111390_B_421_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 185.5,
+      "size": "L",
+      "id": 93
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_045111390_B_421_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 105.5,
+      "size": "L",
+      "id": 94
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_045111390_B_421_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 105.5,
+      "size": "XL",
+      "id": 95
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_045111390_B_421_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 85.5,
+      "size": "XL",
+      "id": 96
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_045111390_B_421_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 85.5,
+      "size": "XXL",
+      "id": 97
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_045111390_B_421_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 105.5,
+      "size": "XXL",
+      "id": 98
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_295070390_B_421_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 65.5,
+      "size": "M",
+      "id": 99
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_295070390_B_421_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 65.5,
+      "size": "L",
+      "id": 100
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_295070390_B_421_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 65.5,
+      "size": "S",
+      "id": 101
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_295070390_B_421_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 65.5,
+      "size": "XL",
+      "id": 102
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_295070390_B_421_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 65.5,
+      "size": "XXL",
+      "id": 103
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_045112595_B_402&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 75.5,
+      "size": "XXL",
+      "id": 104
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_045112595_B_402&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 75.5,
+      "size": "XL",
+      "id": 105
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_045112595_B_402&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 75.5,
+      "size": "L",
+      "id": 106
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_045112595_B_402&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 75.5,
+      "size": "M",
+      "id": 107
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_045112595_B_402&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 75.5,
+      "size": "S",
+      "id": 108
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_181810642_B_401&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 70.5,
+      "size": "S",
+      "id": 109
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_181810642_B_401&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 70.5,
+      "size": "M",
+      "id": 110
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_181810642_B_401&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 70.5,
+      "size": "L",
+      "id": 111
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_181810642_B_401&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 70.5,
+      "size": "XL",
+      "id": 112
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_181810642_B_401&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Levis",
+      "price": 70.5,
+      "size": "XXL",
+      "id": 113
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710855999001_B_400&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 70.5,
+      "size": "XXL",
+      "id": 114
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710855999001_B_400&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 65.5,
+      "size": "XL",
+      "id": 115
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710855999001_B_400&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 65.5,
+      "size": "L",
+      "id": 116
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710855999001_B_400&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 65.5,
+      "size": "M",
+      "id": 117
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710855999001_B_400&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 65.5,
+      "size": "S",
+      "id": 118
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710781459001_B_400&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 75.5,
+      "size": "S",
+      "id": 119
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710781459001_B_400&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 75.5,
+      "size": "L",
+      "id": 120
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710781459001_B_400&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 75.5,
+      "size": "XL",
+      "id": 121
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710781459001_B_400&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 75.5,
+      "size": "XXL",
+      "id": 122
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710548494001_A_400&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 80.5,
+      "size": "XXL",
+      "id": 123
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710548494001_A_400&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 80.5,
+      "size": "XL",
+      "id": 124
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710548494001_A_400&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 80.5,
+      "size": "L",
+      "id": 125
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710548494001_A_400&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 80.5,
+      "size": "M",
+      "id": 126
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710548494001_A_400&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 80.5,
+      "size": "S",
+      "id": 127
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710678275011_A_251&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 90.5,
+      "size": "S",
+      "id": 128
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710678275011_A_251&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 90.5,
+      "size": "M",
+      "id": 129
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710678275011_A_251&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 90.5,
+      "size": "L",
+      "id": 130
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710678275011_A_251&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 90.5,
+      "size": "XL",
+      "id": 131
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710678275011_A_251&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 90.5,
+      "size": "XXL",
+      "id": 132
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710878855001_B_001&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 90.5,
+      "size": "XXL",
+      "id": 133
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710878855001_B_001&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 90.5,
+      "size": "XL",
+      "id": 134
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710878855001_B_001&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 90.5,
+      "size": "L",
+      "id": 135
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710878855001_B_001&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 90.5,
+      "size": "M",
+      "id": 136
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710878855001_B_001&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 90.5,
+      "size": "S",
+      "id": 137
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710726968001_B_001&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 102.5,
+      "size": "S",
+      "id": 138
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710726968001_B_001&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 102.5,
+      "size": "M",
+      "id": 139
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710726968001_B_001&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 102.5,
+      "size": "L",
+      "id": 140
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710726968001_B_001&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 102.5,
+      "size": "XL",
+      "id": 141
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710726968001_B_001&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 102.5,
+      "size": "XXL",
+      "id": 142
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710878506001_B_400&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 105.5,
+      "size": "XXL",
+      "id": 143
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710878506001_B_400&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 105.5,
+      "size": "XL",
+      "id": 144
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710878506001_B_400&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 105.5,
+      "size": "L",
+      "id": 145
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710878506001_B_400&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 105.5,
+      "size": "M",
+      "id": 146
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710878506001_B_400&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Jeans",
+      "brand": "Polo Ralph Lauren",
+      "price": 105.5,
+      "size": "S",
+      "id": 147
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_195870220_B_330&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Levis",
+      "price": 45.5,
+      "size": "S",
+      "id": 148
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_195870220_B_330&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Levis",
+      "price": 45.5,
+      "size": "L",
+      "id": 149
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_195870220_B_330&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Levis",
+      "price": 45.5,
+      "size": "M",
+      "id": 150
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_195870220_B_330&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Levis",
+      "price": 45.5,
+      "size": "XL",
+      "id": 151
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_195870220_B_330&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Levis",
+      "price": 45.5,
+      "size": "XXL",
+      "id": 152
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_857450059_A_600&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Levis",
+      "price": 35.5,
+      "size": "XXL",
+      "id": 153
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_857450059_A_600&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Levis",
+      "price": 35.5,
+      "size": "XL",
+      "id": 154
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_857450059_A_600&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Levis",
+      "price": 35.5,
+      "size": "L",
+      "id": 155
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_857450059_A_600&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Levis",
+      "price": 35.5,
+      "size": "S",
+      "id": 156
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_195870225_A_400&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Levis",
+      "price": 55.5,
+      "size": "S",
+      "id": 157
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_195870225_A_400&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Levis",
+      "price": 55.5,
+      "size": "M",
+      "id": 158
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_195870225_A_400&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Levis",
+      "price": 55.5,
+      "size": "L",
+      "id": 159
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_195870225_A_400&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Levis",
+      "price": 55.5,
+      "size": "XL",
+      "id": 160
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3200927_195870225_A_400&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Levis",
+      "price": 55.5,
+      "size": "XXL",
+      "id": 161
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710880814001_B_410&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 55.5,
+      "size": "XXL",
+      "id": 162
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710880814001_B_410&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 55.5,
+      "size": "XL",
+      "id": 163
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710880814001_B_410&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 55.5,
+      "size": "L",
+      "id": 164
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710880814001_B_410&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 55.5,
+      "size": "M",
+      "id": 165
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710880814001_B_410&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 55.5,
+      "size": "S",
+      "id": 166
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710880819001_B_300&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 45.5,
+      "size": "S",
+      "id": 167
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710880819001_B_300&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 45.5,
+      "size": "M",
+      "id": 168
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710880819001_B_300&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 45.5,
+      "size": "L",
+      "id": 169
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710880819001_B_300&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 45.5,
+      "size": "XL",
+      "id": 170
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710880819001_B_300&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 45.5,
+      "size": "XXL",
+      "id": 171
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_11728787_A_410&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 35.5,
+      "size": "XXL",
+      "id": 172
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_11728787_A_410&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 35.5,
+      "size": "XL",
+      "id": 173
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_11728787_A_410&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 35.5,
+      "size": "L",
+      "id": 174
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_11728787_A_410&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 35.5,
+      "size": "M",
+      "id": 175
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_11728787_A_410&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 35.5,
+      "size": "S",
+      "id": 176
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710849547003_B_999&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 55.5,
+      "size": "S",
+      "id": 177
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710849547003_B_999&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 55.5,
+      "size": "L",
+      "id": 178
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710849547003_B_999&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 55.5,
+      "size": "XL",
+      "id": 179
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710849547003_B_999&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 55.5,
+      "size": "XXL",
+      "id": 180
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_11738796_B_410&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 52.5,
+      "size": "XXL",
+      "id": 181
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_11738796_B_410&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 52.5,
+      "size": "XL",
+      "id": 182
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_11738796_B_410&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 52.5,
+      "size": "L",
+      "id": 183
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_11738796_B_410&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 52.5,
+      "size": "M",
+      "id": 184
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_11738796_B_410&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 52.5,
+      "size": "S",
+      "id": 185
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_11739033_A_998&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 51.18,
+      "size": "S",
+      "id": 186
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_11739033_A_998&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 51.18,
+      "size": "M",
+      "id": 187
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_11739033_A_998&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 51.18,
+      "size": "L",
+      "id": 188
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_11739033_A_998&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 51.18,
+      "size": "XL",
+      "id": 189
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_11739033_A_998&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "505™ Regular Fit Jeans",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 51.18,
+      "size": "XXL",
+      "id": 190
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710877294001_B_999&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Classic Fit Print Soft Cotton Polo Shirt",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 51.18,
+      "size": "XXL",
+      "id": 191
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710877294001_B_999&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Classic Fit Print Soft Cotton Polo Shirt",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 51.18,
+      "size": "XL",
+      "id": 192
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710877294001_B_999&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Classic Fit Print Soft Cotton Polo Shirt",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 51.18,
+      "size": "L",
+      "id": 193
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710877294001_B_999&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Classic Fit Print Soft Cotton Polo Shirt",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 51.18,
+      "size": "M",
+      "id": 194
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710877294001_B_999&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Classic Fit Print Soft Cotton Polo Shirt",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 51.18,
+      "size": "S",
+      "id": 195
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710879734002_B_999&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Classic Fit Print Soft Cotton Polo Shirt",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 65.18,
+      "size": "S",
+      "id": 196
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710879734002_B_999&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Classic Fit Print Soft Cotton Polo Shirt",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 65.18,
+      "size": "M",
+      "id": 197
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710879734002_B_999&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Classic Fit Print Soft Cotton Polo Shirt",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 65.18,
+      "size": "L",
+      "id": 198
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710879734002_B_999&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Classic Fit Print Soft Cotton Polo Shirt",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 65.18,
+      "size": "XL",
+      "id": 199
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710879734002_B_999&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Classic Fit Print Soft Cotton Polo Shirt",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 65.18,
+      "size": "XXL",
+      "id": 200
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710870115001_B_300&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Classic Fit Print Soft Cotton Polo Shirt",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 105.18,
+      "size": "XXL",
+      "id": 201
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710870115001_B_300&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Classic Fit Print Soft Cotton Polo Shirt",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 105.18,
+      "size": "XL",
+      "id": 202
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710870115001_B_300&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Classic Fit Print Soft Cotton Polo Shirt",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 105.18,
+      "size": "L",
+      "id": 203
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710870115001_B_300&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Classic Fit Print Soft Cotton Polo Shirt",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 105.18,
+      "size": "M",
+      "id": 204
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710870115001_B_300&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Classic Fit Print Soft Cotton Polo Shirt",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 105.18,
+      "size": "L",
+      "id": 205
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710870115001_B_300&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Classic Fit Print Soft Cotton Polo Shirt",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 105.18,
+      "size": "S",
+      "id": 206
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710877324001_B_999&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Classic Fit Print Soft Cotton Polo Shirt",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 100.18,
+      "size": "S",
+      "id": 207
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710877324001_B_999&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Classic Fit Print Soft Cotton Polo Shirt",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 100.18,
+      "size": "M",
+      "id": 208
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710877324001_B_999&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Classic Fit Print Soft Cotton Polo Shirt",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 100.18,
+      "size": "L",
+      "id": 209
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710877324001_B_999&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Classic Fit Print Soft Cotton Polo Shirt",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 100.18,
+      "size": "XL",
+      "id": 210
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=3201602_710877324001_B_999&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Classic Fit Print Soft Cotton Polo Shirt",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Shirts",
+      "brand": "Polo Ralph Lauren",
+      "price": 100.18,
+      "size": "XXL",
+      "id": 211
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=2604859_K43151_B_766&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Duxbury Satchel",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Handbag",
+      "brand": "Brahmin",
+      "price": 140.18,
+      "size": "Regular",
+      "id": 212
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=2604859_S96151_A_903&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Duxbury Satchel",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Handbag",
+      "brand": "Brahmin",
+      "price": 149.18,
+      "size": "Regular",
+      "id": 213
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=2604859_S51151_A_001&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Duxbury Satchel",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Handbag",
+      "brand": "Brahmin",
+      "price": 149.18,
+      "size": "Regular",
+      "id": 214
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=2604859_U261708_A_618&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Duxbury Satchel",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Handbag",
+      "brand": "Brahmin",
+      "price": 200.18,
+      "size": "Regular",
+      "id": 215
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=2604859_K491760_B_761&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Duxbury Satchel",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Handbag",
+      "brand": "Brahmin",
+      "price": 240.18,
+      "size": "Regular",
+      "id": 216
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=2604859_T98151_B_692&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Duxbury Satchel",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Handbag",
+      "brand": "Brahmin",
+      "price": 210.18,
+      "size": "Regular",
+      "id": 217
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=2604859_K492052_B_915&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Duxbury Satchel",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Handbag",
+      "brand": "Brahmin",
+      "price": 250.18,
+      "size": "Regular",
+      "id": 218
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=2604859_K492052_B_915&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Duxbury Satchel",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Handbag",
+      "brand": "Brahmin",
+      "price": 150.18,
+      "size": "Regular",
+      "id": 219
+    },
+    {
+      "image": "https://belk.scene7.com/is/image/Belk?layer=0&src=2604859_K49151_B_001_T10L00&layer=comp&$DWP_PRODUCT_PLP_LARGE_t1$",
+      "title": "Duxbury Satchel",
+      "disc": "Crafted from a soft cotton blend, this vintage-inspired hoodie features a contrasting fleece lining at the hood and Polo Ralph Lauren's “Polo Country Ralph Lauren” label.Size medium has a 27.5 body length (front and back), a 19 shoulder, a 45.5 chest, and a 35 sleeve lengthSleeve length changes by 1 between sizes",
+      "category": "Handbag",
+      "brand": "Brahmin",
+      "price": 270.18,
+      "size": "Regular",
+      "id": 220
+    }
+  ]
+}
