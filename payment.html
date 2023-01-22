@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Document</title>
+        <link rel="stylesheet" href="footer.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+        integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap" rel="stylesheet">
+	</head>
+	<style>
+		body {
+			background-color: #eaeaea;
+			margin: 0;
+			padding: 0;
+		}
+		form {
+			display: flex;
+			flex-direction: column;
+			padding: 15px;
+			width: 500px;
+			margin: auto;
+			height: 200px;
+			justify-content: space-between;
+		}
+		form > div {
+			display: flex;
+			height: 30px;
+			justify-content: space-between;
+		}
+		h1 {
+			margin-left: 25px;
+		}
+		#container2 {
+			background-color: white;
+			box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px,
+				rgba(0, 0, 0, 0.23) 0px 3px 6px;
+			width: 550px;
+			margin: 100px auto;
+			padding: 10px;
+			font-family: Lato;
+			border-radius: 5px;
+		}
+		form > input {
+			height: 50px;
+			outline: none;
+			border: none;
+			border-bottom: 1px solid #9e9e9e;
+			font-size: 15px;
+		}
+		form > div > input {
+			outline: none;
+			border: none;
+			border-bottom: 1px solid #9e9e9e;
+			font-size: 15px;
+			font-family: Lato, sans-serif;
+		}
+		#payment {
+			height: 50px;
+			width: 40%;
+			font-family: Lato, sans-serif;
+			font-size: 18px;
+			color: white;
+			background-color: #212121;
+			border: none;
+			border-radius: 5px;
+		}
+		#cardNumber {
+			width: 60%;
+			margin-bottom: 40px;
+		}
+		form > img {
+			width: 120px;
+			/* padding-top: 12px; */
+			margin-top: -15%;
+			margin-left: 350px;
+		}
+
+		.navbar {
+			height: 60px;
+			background: rgb(244, 244, 242);
+			background: linear-gradient(
+				90deg,
+				rgba(244, 244, 242, 1) 0%,
+				rgba(8, 8, 1, 1) 79%
+			);
+
+			width: 100%;
+			background-color: #f4f4f2;
+			position: sticky;
+			top: 0;
+			z-index: 9;
+			display: flex;
+			border-bottom: 20px
+				linear-gradient(90deg, rgba(244, 244, 242, 1) 0%, rgba(8, 8, 1, 1) 79%);
+		}
+		.belk-img {
+			margin: 5px;
+			margin-left: 20px;
+		}
+	</style>
+	<body>
+		<nav class="navbar">
+			<a class="logo" href="index.html"
+				><img class="belk-img" src="images/logo.png" alt=""
+			/></a>
+		</nav>
+		<div id="container2">
+			<h1>Enter payment details</h1>
+			<form>
+				<input
+					type="number"
+					id="cardNumber"
+					placeholder="Enter your card number"
+				/>
+				<img src="https://www.licious.in/img/default/3-dsecure.png" alt="" />
+				<div>
+					<input type="number" id="cvv" placeholder="Enter CVV" />
+					<p>Enter expiry date</p>
+					<input type="month" id="expiry" />
+				</div>
+				<input type="text" id="name" placeholder="Enter name" />
+				<button id="payment">Place Order</button>
+			</form>
+		</div>
+        <div class="foot1">
+            <h3>Belk - Shop & Save Today</h3>
+            <hr>
+            <p>From <a href="">luggage sets</a> to crossbody bags and fine jewelry, you’ll find what you’re shopping for (and so much more!) on belk.com. Shop designer <a href="https://www.belk.com/handbags/">handbags</a>  from many brands including <a href="https://www.belk.com/shop-by-brand/brahmin/">Brahmin</a>  and <a href="https://www.belk.com/shop-by-brand/michael-kors/">Michael Kors,</a> skincare and makeup from your favorites like <a href="https://www.belk.com/shop-by-brand/estee-lauder/">Estée Lauder</a> and <a href="https://www.belk.com/shop-by-brand/clinique/">Clinique</a>  or men’s suits and sport coats from stylish brands like <a href="https://www.belk.com/shop-by-brand/tommy-hilfiger/">Tommy Hilfiger.</a> Get chic in a variety of shoes for women, get active in <a href="">Nike®</a> or get outdoors in <a href="https://www.belk.com/shop-by-brand/columbia/">Columbia</a> and <a href="https://www.belk.com/shop-by-brand/sperry/">Sperry®.</a>  Update your home with <a href="https://www.belk.com/bed-bath/bedding/bedspreads/">bedspreads</a>, comforter sets and new cookware. Create picture-perfect looks with our large selection of kids’ and baby clothes. Treat yourself to something new with our wide variety of purses, <a href="https://www.belk.com/jewelry/">jewelry</a> and accessories. If you’re searching for luxury gifts, shop our selection of designer watches and <a href="https://www.belk.com/shop-by-brand/le-vian/">Le Vian®</a>  jewelry. No matter your style or your lifestyle, you’ll find something you love at Belk. Happy shopping!</p>
+        </div>
+        <div class="foot2">
+            <h3>Trending Categories</h3>
+            <hr>
+            <div id="mygrid1">
+            <a style="text-decoration:none" href="https://www.belk.com/jewelry/watches/mens-watches/">Men's Watches</a>
+            <a style="text-decoration:none" href="https://www.belk.com/shoes/womens-shoes/">Women's shoes</a>
+            <a style="text-decoration:none" href="https://www.belk.com/beauty/fragrances/womens-perfumes/">Perfume</a>
+            <a style="text-decoration:none" href="https://www.belk.com/men/mens-clothing/suits/">Men's Suits</a>
+            <a style="text-decoration:none" href="https://www.belk.com/shoes/womens-shoes/boots/">Women's Boots</a>
+            <a style="text-decoration:none" href="https://www.belk.com/home/travel-luggage/luggage-sets/">Luggage Sets</a>
+            <a style="text-decoration:none" href="https://www.belk.com/jewelry/watches/womens-watches/">Women Watches</a>
+            <a style="text-decoration:none" href="https://www.belk.com/kids/girls-clothing/dresses-skirts/">Girls Dresses</a>
+            <a style="text-decoration:none" href="https://www.belk.com/bed-bath/bedding/comforters/">Comforters</a>
+            </div>
+        </div>
+        <div class="foot3">
+            <h3>Trending Brands</h3>
+            <hr>
+            <div id="mygrid">
+            <a style="text-decoration:none" href="https://www.belk.com/shop-by-brand/brahmin/">Brahmin</a>
+            <a style="text-decoration:none" href="https://www.belk.com/shop-by-brand/estee-lauder/">Estee Lauder</a>
+            <a style="text-decoration:none" href="https://www.belk.com/shop-by-brand/michael-kors/">Michael Kors</a>
+            <a style="text-decoration:none" href="https://www.belk.com/shop-by-brand/columbia/">Columbia</a>
+            <a style="text-decoration:none" href="https://www.belk.com/shop-by-brand/levis/">Levi's</a>
+            <a style="text-decoration:none" href="https://www.belk.com/shop-by-brand/sperry/">Sperry®</a>
+            <a style="text-decoration:none" href="https://www.belk.com/shop-by-brand/cuisinart/">Cusisinart</a>
+            <a style="text-decoration:none" href="https://www.belk.com/shop-by-brand/clinique/">Clinique</a>
+            <a style="text-decoration:none" href="https://www.belk.com/shop-by-brand/ugg/">Ugg®</a>
+            <a style="text-decoration:none" href="https://www.belk.com/shop-by-brand/le-vian/">Le Vian®</a>
+            <a style="text-decoration:none" href="https://www.belk.com/shop-by-brand/tommy-hilfiger/">Tommy Hilfiger</a>
+            <a style="text-decoration:none" href="https://www.belk.com/shop-by-brand/free-people/">Free People</a>
+            <a style="text-decoration:none" href="https://www.belk.com/shop-by-brand/nine-west/">Nine West</a>
+            </div>
+        </div>
+        <div id="head1">
+            <h3>†, *, 1 See offer details. <a href="https://www.belk.com/#exclusions-modal">Exclusions and restrictions apply.</a>  Pricing, promotions and availability may vary by location and at belk.com.</h3>
+            <hr>
+        </div>
+        <div>
+            <hr>
+            <footer class="footer">
+                <div class="container1">
+                    <div class="row">
+                    <div class="footer-column">
+                        <h4>Customer Service</h4>
+                        <ul>
+                            <div><a href="https://www.belk.com/customer-service/" style="text-decoration:none">Contact Us</a></div>
+                            <div><a href="https://www.belk.com/on/demandware.store/Sites-Belk-Site/default/Login-ShowTrackOrder?original=%2faccount-order-history%2f" style="text-decoration:none">Find My Order</a></div>
+                            <div><a href="https://www.belk.com/customer-service/returns-refunds/" style="text-decoration:none">Returns & Refunds</a></div>
+                            <div><a href="https://www.belk.com/stores/" style="text-decoration:none">Find a Store</a></div>
+                            <div><a href="https://www.belk.com/login/?original=%2Fregistry%2F&scope=giftregistry" style="text-decoration:none">Find a Rigistry</a></div>
+                            <div><a href="https://www.belk.com/login/?original=%2Fwish-list%2F&scope=wishlist" style="text-decoration:none">Find a Wish List</a></div>
+                            <div><a href="https://www.belk.com/customer-service/shipping-information/" style="text-decoration:none">Shopping Information</a></div>
+                            <div><a href="https://www.belk.com/customer-service/pickup-delivery-options/" style="text-decoration:none">Pick and Delivary Options</a></div>
+                            <div><a href="https://www.belk.com/customer-service/policies-guidelines/" style="text-decoration:none">Policies and Guidelines</a></div>
+                            <div><a href="https://www.belk.com/customer-service/faqs/" style="text-decoration:none">FAQ's</a></div>
+                        </ul>
+                        
+                    </div>
+                    
+                    <div class="footer-column">
+                        <h4>Belk Rewards+Credit Card</h4>
+                        <ul>
+                            <div><a href="https://apply.syf.com/eapply/eapply.action?clientCode=BELK&sitecode=BEACFL7" style="text-decoration:none">Apply for a Belk Rewards+Credit Card</a></div>
+                            <div><a href="https://www.belk.com/#bcc-account-modal" style="text-decoration:none">Pay My Bill</a></div>
+                            <div><a href="https://www.belk.com/#bcc-account-modal" style="text-decoration:none">Manage My Account</a></div>
+                            <div><a href="https://www.belk.com/customer-service/rewards/" style="text-decoration:none">Belk Rewards+Credit Card Benifits</a></div>
+                        </ul>
+                        
+                    </div>
+                   
+                    <div class="footer-column">
+                        <h4>About Belk</h4>
+                        <ul>
+                           <div><a href="https://www.belkcareers.com/" style="text-decoration:none">Careers</a></div> 
+                           <div><a href="https://www.belk.com/customer-service/catalogs-ads/" style="text-decoration:none">Catalogs & Ads</a></div>
+                           <div><a href="https://www.belk.com/search/?shopbybrand=root" style="text-decoration:none">Brands We Carry</a></div>
+                           <div><a href="https://newsroom.belk.com/" style="text-decoration:none">Newsroom</a></div> 
+                           <div><a href="https://www.belk.com/customer-service/about-us/behind-the-brand/" style="text-decoration:none">Behind The Brand</a></div>
+                           <div><a href="https://www.belk.com/customer-service/policies-guidelines/vendor-resources/" style="text-decoration:none">Vendor Resources</a></div>
+                           <div><a href="https://events.belk.com/" style="text-decoration:none">Store Events</a></div> 
+                        </ul>
+                       
+                    </div>
+                   
+                 <div class="footer-column">
+                        <h4>Get The Belk App</h4>
+                        <div><img width="150px" src="https://cdn.britannica.com/17/155017-050-9AC96FC8/Example-QR-code.jpg" alt=""></div>
+                        <div><a href="https://apps.apple.com/us/app/belk/id673347869"><img width="150px" src="https://belk.scene7.com/is/image/Belk/footer-app-ios-badge-2x?&$DWP_ARTWORK$" alt=""></a></div>
+                        <div><a href="https://play.google.com/store/apps/details?id=com.belk.android.belk&hl=en"><img width="150px" src="https://belk.scene7.com/is/image/Belk/footer-app-android-badge-2x?&$DWP_ARTWORK$" alt=""></a></div>
+                </div>
+              </footer>
+        </div>
+        <div class="containermain">
+            <div >
+                    
+                    <ul>
+                        <h2>Stay Connected</h2>
+                        <div><a href="https://www.facebook.com/Belk"><li class="fb"><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li></a></div>
+                        <li class="twitter"><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+                        <li class="yt"><a href="#"><i class="fa-brands fa-pinterest"></i></a></li>
+                        <li class="insta"><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+                        <!-- <li class="github"><a href="#"><i class="fa-brands fa-github"></i></a></li> -->
+                        
+                    </ul>
+            </div>
+                <div class="container2">
+                    <ul >
+                        <h3>Get $10 off with email <br> sign-up! Use on top of <br> coupons.</h3>
+                        <input id="Search" type="email" placeholder="Enter your email address" >
+                        <input type="submit" value="Join" name="" id="join">
+                    </ul>
+                </div>
+            </div>
+            <hr>
+        </div>
+        <div>
+            <div class="Bottom1">
+                <a style="text-decoration:none" href="https://www.belk.com/customer-service/terms-of-use/">Terms of Use</a>
+                 <hr>
+                <a style="text-decoration:none" href="https://www.belk.com/customer-service/policies-guidelines/privacy-policy/">Privercy Policy</a>
+                <hr>
+                <a style="text-decoration:none" href="https://www.belk.com/customer-service/policies-guidelines/privacy-policy/#statespecific">State-Specific Privercy Notices</a>
+                <hr>
+                <a style="text-decoration:none" href="https://www.belk.com/">Enable Accessibility</a>
+                <hr>
+                <a style="text-decoration:none" href="https://www.belk.com/customer-service/policies-guidelines/accessibility-statement/">Accessibility Statement</a>
+            </div>
+            <div class="Bottom2">
+                <a style="text-decoration:none" href="https://www.belk.com/customer-privacy-rights-request-form.html">DO Not Sell or Share My Personal Information</a>
+                <hr>
+                <a style="text-decoration:none" href="https://www.belk.com/customer-service/about-us/ca-transparency-compliance/">CA Transferancy in Supply Chain</a>
+                <hr>
+                <a style="text-decoration:none" href="https://www.belk.com/sitemap/">Site Map</a>
+                <hr>
+                <a style="text-decoration:none" href="https://www.belk.com/">Feedack</a>
+            </div>
+            <div id="lastline">
+                <h5>© 2022 Belk, Inc. & Belk eCommerce LLC. All Rights Reserved.</h5>
+            </div>
+        </div>
+	</body>
+	<script>
+		document.querySelector("#payment").addEventListener("click", payment);
+		function payment() {
+			event.preventDefault();
+			var cardNumber = document.querySelector("#cardNumber").value;
+			var cvv = document.querySelector("#cvv").value;
+			var expiry = document.querySelector("#expiry").value;
+			if (cardNumber.length == 16 && cvv.length == 3 && expiry) {
+				window.location.href = "./orderSuccess.html";
+			} else {
+				alert("Enter correct details");
+			}
+		}
+	</script>
+</html>

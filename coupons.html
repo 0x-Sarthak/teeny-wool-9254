@@ -1,0 +1,841 @@
+<!DOCTYPE html>
+<html lang="en">
+	
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Secular+One&display=swap"
+			rel="stylesheet"
+		/>
+		<link
+			href="https://fonts.googleapis.com/css2?family=Secular+One&family=Varela+Round&display=swap"
+			rel="stylesheet"
+		/>
+		<link rel="stylesheet" href="footer.css">
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css"
+		integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w=="
+		crossorigin="anonymous" referrerpolicy="no-referrer" />
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js" integrity="sha512-XtmMtDEcNz2j7ekrtHvOVR4iwwaD6o/FUJe6+Zq+HgcCsk3kj4uSQQR8weQ2QVj1o0Pk6PwYLohm206ZzNfubg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css" integrity="sha512-17EgCFERpgZKcm0j0fEq1YCJuyAWdz9KUtv1EjVuaOz8pDnh/0nZxmU6BBXwaaxqoi9PQXnRWqlcDB027hgv9A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="index.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+		<title>Document</title>
+	</head>
+	<style>
+		@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Koulen&family=Lato&family=Nunito&family=Playfair+Display:ital@1&family=Prata&family=Raleway:ital,wght@1,100&family=Roboto&family=Roboto+Condensed&family=Teko&display=swap");
+
+		.btn {
+			margin: auto;
+			font-family: Roboto, sans-serif;
+
+			font-weight: 0;
+			font-size: 14px;
+			color: #fff;
+			background-color: #0066cc;
+			padding: 10px 30px;
+			border: 2px solid #0066cc;
+			box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+			border-radius: 20px;
+			transition: 1000ms;
+			transform: translateY(0);
+			display: flex;
+			flex-direction: row;
+			align-items: center;
+			cursor: pointer;
+			/* margin-bottom: 20px; */
+		}
+
+		.btn:hover {
+			transition: 1000ms;
+			padding: 10px 50px;
+			transform: translateY(-0px);
+			background-color: #fff;
+			color: #0066cc;
+			border: solid 2px #0066cc;
+		}
+
+		body {
+			background-color: #fafafa;
+		}
+		
+		.tag-line {
+			margin: 50px;
+			text-align: center;
+			font-family: "Secular One", sans-serif;
+			font-size: 40px;
+		}
+		.parent-card {
+			display: grid;
+
+			width: 90%;
+			margin: auto;
+			height: auto;
+			grid-template-columns: repeat(4, 1fr);
+			gap: 20px;
+			margin-bottom: 100px;
+		}
+		.child-card {
+			margin: auto;
+
+			border-radius: 30px;
+			box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+				rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+			text-align: center;
+			width: 90%;
+		}
+
+		.percent-line {
+			font-family: "Secular One", sans-serif;
+			margin: 0px;
+			padding: 0px;
+			font-size: 100px;
+			color: #00337c;
+		}
+
+		.mid-div {
+			width: 80%;
+			height: 200px;
+			background: #12c2e9; /* fallback for old browsers */
+			
+			background: -webkit-linear-gradient(
+				to right,
+				#f64f59,
+				#c471ed,
+				#12c2e9
+			); /* Chrome 10-25, Safari 5.1-6 */
+			background: linear-gradient(
+				to right,
+				#f64f59,
+				#c471ed,
+				#12c2e9
+			); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+			margin: auto;
+			border-radius: 40px;
+			text-align: center;
+		}
+
+
+		.bt2 {
+			margin-bottom: 30px;
+		}
+
+		.bottom-linear {
+			margin-bottom: 150px;
+		}
+
+		.coupons_tag {
+			margin: 50px;
+			margin-bottom: 50px;
+		}
+
+
+		@media screen and (max-width: 400px) {
+			.parent-card {
+			display: grid;
+			padding-left: 220px;
+
+			width: 100%;
+			margin: auto;
+			height: 100%;
+			grid-template-columns: repeat(1, 1fr);
+			gap: 20px;
+			margin-bottom: 100px;
+		}
+		
+		}
+
+		@media screen and (min-width: 400px, max-width:1000px) {
+			.parent-card {
+			display: grid;
+			
+
+			width: 100%;
+			margin: auto;
+			height: 100%;
+			grid-template-columns: repeat(3, 1fr);
+			gap: 20px;
+			margin-bottom: 100px;
+		}
+		}
+	</style>
+	<body>
+		<header class="belk-header">
+			<div class="head-top">
+			 <div></div>
+			 <div>Free shiping at@49</div>
+			 <div>Enable Accessibility</div>
+			</div>
+			<div class="head-second">
+			  <div class="navbar">
+			   <a class="logo" href="#"><img src="images/logo.png" alt=""></a>
+			   <div class="search">
+				<input type="text" placeholder="What can we help you find ?"><button><i class="fa-sharp fa-solid fa-magnifying-glass"></i></button>
+				</div>
+				<div class="pipe">|</div>
+				<div class="contain">
+				   
+				  <div class="nav1 reward">
+					<a href="#">
+					   <div class="plus1"><img src="images/reward.png" alt=""></div>
+					</a>
+				  </div>
+				  <div class="nav1">
+					<a href="coupons.html">
+					  
+					   <div class="plus1"><img src="images/coupan.png" alt=""></div>
+					</a>
+				  </div>
+				  <div class="nav1">
+					<a href="login.html">
+					   
+					   <div class="plus1"><img src="images/account.png" alt=""></div>
+					</a>
+				  </div>
+				  
+				  <div class="nav1">
+					<a href="#">
+					   <div class="plus1"><img src="images/cart.png" alt=""></div>
+					</a>
+				  </div>
+				</div>
+			</div>
+			<div class="head-third">
+				<div class="navbar drop">
+				  <div class="product1">
+					<ul>
+					  <li class="nav1 drp"><a href="#">Gift</a>
+						<div class="drop-menu ">
+						  <div class="flex">
+							<div>
+							<ul class="dp">
+							  <li><h3>Gifts</h3></li>
+							  <li><a href="#"></a>Beuty Gift</li>
+							  <li><a href="#"></a>Cozy Soap</li>
+							  <li><a href="#"></a>Designer Handbag</li>
+							  <li><a href="#"></a>Eco Freindly</li>
+							  <li><a href="#"></a>Fine Jwelery</li>
+							  <li><a href="#"></a>For the Trend Setter</li>
+							  <li><a href="#"></a>Gifts Card</li>
+							  <li><a href="#"></a>Gifts with Purpose</li>
+							  <li><a href="#"></a>Holiday Decor</li>
+							  <li><a href="#"></a>Holiday Pajamas</li>
+							  <li><a href="#"></a>Intimates</li>
+	  
+							</ul>
+						  
+						  </div>
+	
+						  <div>
+							<ul class="dp">
+							  <li><h3>All Gifts</h3></li>
+							  <li><a href="#"></a>Gifts for Her</li>
+							  <li><a href="#"></a>Gifts for Him</li>
+							  <li><a href="#"></a>Gifts for Kids</li>
+							  <li><a href="#"></a>Gifts for Pets</li>
+							  <li><a href="#"></a>Gifts for Home</li>
+							  <li><a href="#"></a>Gift Cards</li>
+							  <li><a href="#"></a>Shop All...</li>
+							  <li><h3>Just for Kids</h3></li>
+							  <li><a href="#"></a>Active Gear</li>
+							  <li><a href="#"></a>Holiday Pajamas</li>
+							  <li><a href="#"></a>Kids fan Gear</li>
+							  <li><a href="#"></a>Toys & Games</li>
+							  <li><a href="#"></a>Gift Cards</li>
+							  <li><a href="#"></a>Shop All...</li>
+							</ul>
+						  </div>
+						  <div>
+							<ul class="dp">
+							  <li><h3>Gifts by Price</h3></li>
+							  <li><a href="#"></a>Under $10</li>
+							  <li><a href="#"></a>Under $25</li>
+							  <li><a href="#"></a>Under $50</li>
+							  <li><a href="#"></a>Under $100</li>
+							  <li><a href="#"></a>Over $100</li>
+							  <li><a href="#"></a>Gifts Card</li>
+							  <li><a href="#"></a>Shop All...</li>
+							  <li><h3>Favourite Brands</h3></li>
+							  <li><a href="#"></a>Brahmin</li>
+							  <li><a href="#"></a>Estee Laudeer</li>
+							  <li><a href="#"></a>Free People</li>
+							  <li><a href="#"></a>Michel Chors</li>
+							  <li><a href="#"></a>Ralph Lauren</li>
+							  <li><a href="#"></a>Shop All...</li>
+	  
+							</ul>
+						  </div>
+						  <div>
+							<ul class="dp">
+							  
+							  <li><h3>Gifts by Recipent</h3></li>
+							  <li><a href="#"></a>For the Foodie</li>
+							  <li><a href="#"></a>For the Hosters</li>
+							  <li><a href="#"></a>For the Outdoorsam</li>
+							  <li><a href="#"></a>For the Sports Man</li>
+							  <li><a href="#"></a>For the Techie</li>
+							  <li><a href="#"></a>Gifts Cards</li>
+							  <li><a href="#"></a>Shop All...</li>
+	  
+							</ul>
+						  </div>
+						</div>  
+						  
+						</div>
+					  </li>
+					  <li class="nav1 drp"><a href="#">Women</a>
+						<div class="drop-menu women">
+						  <div class="flex">
+							<div>
+							<ul class="dp">
+							  <li><h3>Gifts</h3></li>
+							  <li><a href="#"></a>Beuty Gift</li>
+							  <li><a href="#"></a>Cozy Soap</li>
+							  <li><a href="#"></a>Designer Handbag</li>
+							  <li><a href="#"></a>Eco Freindly</li>
+							  <li><a href="#"></a>Fine Jwelery</li>
+							  <li><a href="#"></a>For the Trend Setter</li>
+							  <li><a href="#"></a>Gifts Card</li>
+							  <li><a href="#"></a>Gifts with Purpose</li>
+							  <li><a href="#"></a>Holiday Decor</li>
+							  <li><a href="#"></a>Holiday Pajamas</li>
+							  <li><a href="#"></a>Intimates</li>
+	  
+							</ul>
+						  
+						  </div>
+	
+						  <div>
+							<ul class="dp">
+							  <li><h3>All Gifts</h3></li>
+							  <li><a href="#"></a>Gifts for Her</li>
+							  <li><a href="#"></a>Gifts for Him</li>
+							  <li><a href="#"></a>Gifts for Kids</li>
+							  <li><a href="#"></a>Gifts for Pets</li>
+							  <li><a href="#"></a>Gifts for Home</li>
+							  <li><a href="#"></a>Gift Cards</li>
+							  <li><a href="#"></a>Shop All...</li>
+							  <li><h3>Just for Kids</h3></li>
+							  <li><a href="#"></a>Active Gear</li>
+							  <li><a href="#"></a>Holiday Pajamas</li>
+							  <li><a href="#"></a>Kids fan Gear</li>
+							  <li><a href="#"></a>Toys & Games</li>
+							  <li><a href="#"></a>Gift Cards</li>
+							  <li><a href="#"></a>Shop All...</li>
+							</ul>
+						  </div>
+						  <div>
+							<ul class="dp">
+							  <li><h3>Gifts by Price</h3></li>
+							  <li><a href="#"></a>Under $10</li>
+							  <li><a href="#"></a>Under $25</li>
+							  <li><a href="#"></a>Under $50</li>
+							  <li><a href="#"></a>Under $100</li>
+							  <li><a href="#"></a>Over $100</li>
+							  <li><a href="#"></a>Gifts Card</li>
+							  <li><a href="#"></a>Shop All...</li>
+							  <li><h3>Favourite Brands</h3></li>
+							  <li><a href="#"></a>Brahmin</li>
+							  <li><a href="#"></a>Estee Laudeer</li>
+							  <li><a href="#"></a>Free People</li>
+							  <li><a href="#"></a>Michel Chors</li>
+							  <li><a href="#"></a>Ralph Lauren</li>
+							  <li><a href="#"></a>Shop All...</li>
+	  
+							</ul>
+						  </div>
+						  <div>
+							<ul class="dp">
+							  
+							  <li><h3>Gifts by Recipent</h3></li>
+							  <li><a href="#"></a>For the Foodie</li>
+							  <li><a href="#"></a>For the Hosters</li>
+							  <li><a href="#"></a>For the Outdoorsam</li>
+							  <li><a href="#"></a>For the Sports Man</li>
+							  <li><a href="#"></a>For the Techie</li>
+							  <li><a href="#"></a>Gifts Cards</li>
+							  <li><a href="#"></a>Shop All...</li>
+	  
+							</ul>
+						  </div>
+						</div>  
+						  
+						</div>
+					  </li>
+					  <li class="nav1 drp"><a href="#">Men</a>
+						<div class="drop-menu men">
+						  <div class="flex">
+							<div>
+							<ul class="dp">
+							  <li><h3>Gifts</h3></li>
+							  <li><a href="#"></a>Beuty Gift</li>
+							  <li><a href="#"></a>Cozy Soap</li>
+							  <li><a href="#"></a>Designer Handbag</li>
+							  <li><a href="#"></a>Eco Freindly</li>
+							  <li><a href="#"></a>Fine Jwelery</li>
+							  <li><a href="#"></a>For the Trend Setter</li>
+							  <li><a href="#"></a>Gifts Card</li>
+							  <li><a href="#"></a>Gifts with Purpose</li>
+							  <li><a href="#"></a>Holiday Decor</li>
+							  <li><a href="#"></a>Holiday Pajamas</li>
+							  <li><a href="#"></a>Intimates</li>
+	  
+							</ul>
+						  
+						  </div>
+	
+						  <div>
+							<ul class="dp">
+							  <li><h3>All Gifts</h3></li>
+							  <li><a href="#"></a>Gifts for Her</li>
+							  <li><a href="#"></a>Gifts for Him</li>
+							  <li><a href="#"></a>Gifts for Kids</li>
+							  <li><a href="#"></a>Gifts for Pets</li>
+							  <li><a href="#"></a>Gifts for Home</li>
+							  <li><a href="#"></a>Gift Cards</li>
+							  <li><a href="#"></a>Shop All...</li>
+							  <li><h3>Just for Kids</h3></li>
+							  <li><a href="#"></a>Active Gear</li>
+							  <li><a href="#"></a>Holiday Pajamas</li>
+							  <li><a href="#"></a>Kids fan Gear</li>
+							  <li><a href="#"></a>Toys & Games</li>
+							  <li><a href="#"></a>Gift Cards</li>
+							  <li><a href="#"></a>Shop All...</li>
+							</ul>
+						  </div>
+						  <div>
+							<ul class="dp">
+							  <li><h3>Gifts by Price</h3></li>
+							  <li><a href="#"></a>Under $10</li>
+							  <li><a href="#"></a>Under $25</li>
+							  <li><a href="#"></a>Under $50</li>
+							  <li><a href="#"></a>Under $100</li>
+							  <li><a href="#"></a>Over $100</li>
+							  <li><a href="#"></a>Gifts Card</li>
+							  <li><a href="#"></a>Shop All...</li>
+							  <li><h3>Favourite Brands</h3></li>
+							  <li><a href="#"></a>Brahmin</li>
+							  <li><a href="#"></a>Estee Laudeer</li>
+							  <li><a href="#"></a>Free People</li>
+							  <li><a href="#"></a>Michel Chors</li>
+							  <li><a href="#"></a>Ralph Lauren</li>
+							  <li><a href="#"></a>Shop All...</li>
+	  
+							</ul>
+						  </div>
+						  <div>
+							<ul class="dp">
+							  
+							  <li><h3>Gifts by Recipent</h3></li>
+							  <li><a href="#"></a>For the Foodie</li>
+							  <li><a href="#"></a>For the Hosters</li>
+							  <li><a href="#"></a>For the Outdoorsam</li>
+							  <li><a href="#"></a>For the Sports Man</li>
+							  <li><a href="#"></a>For the Techie</li>
+							  <li><a href="#"></a>Gifts Cards</li>
+							  <li><a href="#"></a>Shop All...</li>
+	  
+							</ul>
+						  </div>
+						</div>  
+						  
+						</div>
+					  </li>
+					  <li class="nav1 drp"><a href="#">Kids</a>
+						</li>
+					  <li class="nav1 drp"><a href="#">Shoes</a>
+						 </li>
+					  <li class="nav1 drp"><a href="#">Handbag</a>
+						  </li>
+					  <li class="nav1 drp"><a href="#">Jwelery</a>
+						 </li>
+					  <li class="nav1 drp"><a href="#">Beauty</a>
+						  </li>
+					  <li class="nav1 drp"><a href="#">Conn's x Belk</a>
+						  </li>
+					  <li class="nav1 drp"><a href="#">Brand</a>
+						 </li>
+					  <li class="nav1 drp"><a href="#">Clearence</a>
+						 </li>
+					</ul>
+				  </div>
+				  <div class="product2">
+					<a href="#"><img src="images/store.png" alt=""></a>
+				  </div>
+				</div>
+	
+			</div>
+		</header>
+		<div class="coupons_tag">
+			<h2>
+				<a
+					href=""
+					style="
+						text-decoration: none;
+						color: #000000;
+						font-family: 'Varela Round', sans-serif;
+					"
+					>Home</a
+				>
+				/
+				<a
+					href=""
+					style="
+						text-decoration: none;
+
+						font-family: 'Varela Round', sans-serif;
+					"
+					>Coupons</a
+				>
+			</h2>
+		</div>
+		<h2 class="tag-line">Save Big with Coupons</h2>
+		<div class="parent-card">
+			<div class="child-card">
+				<p style="font-family: 'Varela Round', sans-serif">In-Store & Online</p>
+				<hr
+					style="
+						height: 4px;
+						border-width: 0;
+						color: black;
+						background-color: black;
+					"
+				/>
+				<br />
+				<p
+					style="
+						font-family: Secular One, sans-serif;
+						margin-bottom: -35px;
+						padding: 0px;
+						font-size: 40px;
+						font-weight: 600;
+						color: #ff1e1e;
+					"
+				>
+					extra
+				</p>
+				<h1 class="percent-line">20%</h1>
+				<h3 style="font-family: 'Varela Round', sans-serif">
+					Cardholder Beauty
+				</h3>
+				<p style="font-family: 'Varela Round', sans-serif; color: #3c79f5">
+					Use Code: LETITGLOW
+				</p>
+				<p
+					style="
+						font-family: Secular One, sans-serif;
+						text-align: left;
+						padding-inline: 40px;
+					"
+				>
+					Today Only, Ends 11:59pm ET 20% off regularly priced beauty purchases
+					(includes fragrances) with Belk Rewards+ credit card & coupon
+				</p>
+				<button class="btn" onClick="handle()">ADD COUPON</button>
+				<br />
+				<button class="btn bt2">🎁 SHOP NOW 🎁</button>
+			</div>
+			<div class="child-card">
+				<p style="font-family: 'Varela Round', sans-serif">Online Only</p>
+				<hr
+					style="
+						height: 4px;
+						border-width: 0;
+						color: #b7b78a;
+						background-color: #b7b78a;
+					"
+				/>
+				<br />
+				<p
+					style="
+						font-family: Secular One, sans-serif;
+						margin-bottom: -35px;
+						padding: 0px;
+						font-size: 40px;
+						font-weight: 600;
+						color: #8e2657;
+					"
+				>
+					extra
+				</p>
+				<h1 class="percent-line">80%</h1>
+				<h3 style="font-family: 'Varela Round', sans-serif">Today's Coupon</h3>
+				<p style="font-family: 'Varela Round', sans-serif; color: #3c79f5">
+					Use Code: MASAI301
+				</p>
+				<p
+					style="
+						font-family: Secular One, sans-serif;
+						text-align: left;
+						padding-inline: 40px;
+					"
+				>
+					Today Only, Ends 11:59pm ET 20% off regularly priced beauty purchases
+					(includes fragrances) with Belk Rewards+ credit card & coupon
+				</p>
+				<button class="btn" onClick="handle()">ADD COUPON</button>
+				<br />
+				<button class="btn bt2">🎁 SHOP NOW 🎁</button>
+			</div>
+			<div class="child-card">
+				<p style="font-family: 'Varela Round', sans-serif">In-Store Only</p>
+				<hr
+					style="
+						height: 4px;
+						border-width: 0;
+						color: black;
+						background-color: black;
+					"
+				/>
+				<br />
+				<p
+					style="
+						font-family: Secular One, sans-serif;
+						margin-bottom: -35px;
+						padding: 0px;
+						font-size: 40px;
+						font-weight: 600;
+						color: #ff3f00;
+					"
+				>
+					extra
+				</p>
+				<h1 class="percent-line">40%</h1>
+				<h3 style="font-family: 'Varela Round', sans-serif">Today's Coupon</h3>
+				<p style="font-family: 'Varela Round', sans-serif; color: #3c79f5">
+					Use Code: MASAIVERSE111
+				</p>
+				<p
+					style="
+						font-family: Secular One, sans-serif;
+						text-align: left;
+						padding-inline: 40px;
+					"
+				>
+					Today Only, Ends 11:59pm ET 20% off regularly priced beauty purchases
+					(includes fragrances) with Belk Rewards+ credit card & coupon
+				</p>
+				<button class="btn" onClick="handle()">ADD COUPON</button>
+				<br />
+				<button class="btn bt2">🎁 SHOP NOW 🎁</button>
+			</div>
+			<div class="child-card">
+				<p style="font-family: 'Varela Round', sans-serif">In-Store & Online</p>
+				<hr
+					style="
+						height: 4px;
+						border-width: 0;
+						color: #b7b78a;
+						background-color: #b7b78a;
+					"
+				/>
+				<br />
+				<p
+					style="
+						font-family: Secular One, sans-serif;
+						margin-bottom: -35px;
+						padding: 0px;
+						font-size: 40px;
+						font-weight: 600;
+						color: #ec255a;
+					"
+				>
+					extra
+				</p>
+				<h1 class="percent-line">30%</h1>
+				<h3 style="font-family: 'Varela Round', sans-serif">
+					Fine Jewelry Coupon
+				</h3>
+				<p style="font-family: 'Varela Round', sans-serif; color: #3c79f5">
+					Use Code: MASAI101
+				</p>
+				<p
+					style="
+						font-family: Secular One, sans-serif;
+						text-align: left;
+						padding-inline: 40px;
+					"
+				>
+					Today Only, Ends 11:59pm ET 20% off regularly priced beauty purchases
+					(includes fragrances) with Belk Rewards+ credit card & coupon
+				</p>
+				<button class="btn" onClick="handle()">ADD COUPON</button>
+				<br />
+				<button class="btn bt2">🎁 SHOP NOW 🎁</button>
+			</div>
+		</div>
+
+		<div class="bottom-linear">
+			<h1 style="font-family: Secular One, sans-serif; text-align: center">
+				More Ways to Save
+			</h1>
+			<div class="mid-div">
+				<br />
+				<br />
+				<br />
+				<h2 style="font-family: 'Varela Round', sans-serif">
+					No More Ways Right Now
+				</h2>
+			</div>
+		</div>
+		<div class="foot1">
+			<h3>Belk - Shop & Save Today</h3>
+			<hr>
+			<p>From <a href="">luggage sets</a> to crossbody bags and fine jewelry, you’ll find what you’re shopping for (and so much more!) on belk.com. Shop designer <a href="https://www.belk.com/handbags/">handbags</a>  from many brands including <a href="https://www.belk.com/shop-by-brand/brahmin/">Brahmin</a>  and <a href="https://www.belk.com/shop-by-brand/michael-kors/">Michael Kors,</a> skincare and makeup from your favorites like <a href="https://www.belk.com/shop-by-brand/estee-lauder/">Estée Lauder</a> and <a href="https://www.belk.com/shop-by-brand/clinique/">Clinique</a>  or men’s suits and sport coats from stylish brands like <a href="https://www.belk.com/shop-by-brand/tommy-hilfiger/">Tommy Hilfiger.</a> Get chic in a variety of shoes for women, get active in <a href="">Nike®</a> or get outdoors in <a href="https://www.belk.com/shop-by-brand/columbia/">Columbia</a> and <a href="https://www.belk.com/shop-by-brand/sperry/">Sperry®.</a>  Update your home with <a href="https://www.belk.com/bed-bath/bedding/bedspreads/">bedspreads</a>, comforter sets and new cookware. Create picture-perfect looks with our large selection of kids’ and baby clothes. Treat yourself to something new with our wide variety of purses, <a href="https://www.belk.com/jewelry/">jewelry</a> and accessories. If you’re searching for luxury gifts, shop our selection of designer watches and <a href="https://www.belk.com/shop-by-brand/le-vian/">Le Vian®</a>  jewelry. No matter your style or your lifestyle, you’ll find something you love at Belk. Happy shopping!</p>
+		</div>
+		<div class="foot2">
+			<h3>Trending Categories</h3>
+			<hr>
+			<div id="mygrid1">
+			<a style="text-decoration:none" href="https://www.belk.com/jewelry/watches/mens-watches/">Men's Watches</a>
+			<a style="text-decoration:none" href="https://www.belk.com/shoes/womens-shoes/">Women's shoes</a>
+			<a style="text-decoration:none" href="https://www.belk.com/beauty/fragrances/womens-perfumes/">Perfume</a>
+			<a style="text-decoration:none" href="https://www.belk.com/men/mens-clothing/suits/">Men's Suits</a>
+			<a style="text-decoration:none" href="https://www.belk.com/shoes/womens-shoes/boots/">Women's Boots</a>
+			<a style="text-decoration:none" href="https://www.belk.com/home/travel-luggage/luggage-sets/">Luggage Sets</a>
+			<a style="text-decoration:none" href="https://www.belk.com/jewelry/watches/womens-watches/">Women Watches</a>
+			<a style="text-decoration:none" href="https://www.belk.com/kids/girls-clothing/dresses-skirts/">Girls Dresses</a>
+			<a style="text-decoration:none" href="https://www.belk.com/bed-bath/bedding/comforters/">Comforters</a>
+			</div>
+		</div>
+		<div class="foot3">
+			<h3>Trending Brands</h3>
+			<hr>
+			<div id="mygrid">
+			<a style="text-decoration:none" href="https://www.belk.com/shop-by-brand/brahmin/">Brahmin</a>
+			<a style="text-decoration:none" href="https://www.belk.com/shop-by-brand/estee-lauder/">Estee Lauder</a>
+			<a style="text-decoration:none" href="https://www.belk.com/shop-by-brand/michael-kors/">Michael Kors</a>
+			<a style="text-decoration:none" href="https://www.belk.com/shop-by-brand/columbia/">Columbia</a>
+			<a style="text-decoration:none" href="https://www.belk.com/shop-by-brand/levis/">Levi's</a>
+			<a style="text-decoration:none" href="https://www.belk.com/shop-by-brand/sperry/">Sperry®</a>
+			<a style="text-decoration:none" href="https://www.belk.com/shop-by-brand/cuisinart/">Cusisinart</a>
+			<a style="text-decoration:none" href="https://www.belk.com/shop-by-brand/clinique/">Clinique</a>
+			<a style="text-decoration:none" href="https://www.belk.com/shop-by-brand/ugg/">Ugg®</a>
+			<a style="text-decoration:none" href="https://www.belk.com/shop-by-brand/le-vian/">Le Vian®</a>
+			<a style="text-decoration:none" href="https://www.belk.com/shop-by-brand/tommy-hilfiger/">Tommy Hilfiger</a>
+			<a style="text-decoration:none" href="https://www.belk.com/shop-by-brand/free-people/">Free People</a>
+			<a style="text-decoration:none" href="https://www.belk.com/shop-by-brand/nine-west/">Nine West</a>
+			</div>
+		</div>
+		<div id="head1">
+			<h3>†, *, 1 See offer details. <a href="https://www.belk.com/#exclusions-modal">Exclusions and restrictions apply.</a>  Pricing, promotions and availability may vary by location and at belk.com.</h3>
+			<hr>
+		</div>
+		<div>
+			<hr>
+			<footer class="footer">
+				<div class="container1">
+					<div class="row">
+					<div class="footer-column">
+						<h4>Customer Service</h4>
+						<ul>
+							<div><a href="https://www.belk.com/customer-service/" style="text-decoration:none">Contact Us</a></div>
+							<div><a href="https://www.belk.com/on/demandware.store/Sites-Belk-Site/default/Login-ShowTrackOrder?original=%2faccount-order-history%2f" style="text-decoration:none">Find My Order</a></div>
+							<div><a href="https://www.belk.com/customer-service/returns-refunds/" style="text-decoration:none">Returns & Refunds</a></div>
+							<div><a href="https://www.belk.com/stores/" style="text-decoration:none">Find a Store</a></div>
+							<div><a href="https://www.belk.com/login/?original=%2Fregistry%2F&scope=giftregistry" style="text-decoration:none">Find a Rigistry</a></div>
+							<div><a href="https://www.belk.com/login/?original=%2Fwish-list%2F&scope=wishlist" style="text-decoration:none">Find a Wish List</a></div>
+							<div><a href="https://www.belk.com/customer-service/shipping-information/" style="text-decoration:none">Shopping Information</a></div>
+							<div><a href="https://www.belk.com/customer-service/pickup-delivery-options/" style="text-decoration:none">Pick and Delivary Options</a></div>
+							<div><a href="https://www.belk.com/customer-service/policies-guidelines/" style="text-decoration:none">Policies and Guidelines</a></div>
+							<div><a href="https://www.belk.com/customer-service/faqs/" style="text-decoration:none">FAQ's</a></div>
+						</ul>
+						
+					</div>
+					
+					<div class="footer-column">
+						<h4>Belk Rewards+Credit Card</h4>
+						<ul>
+							<div><a href="https://apply.syf.com/eapply/eapply.action?clientCode=BELK&sitecode=BEACFL7" style="text-decoration:none">Apply for a Belk Rewards+Credit Card</a></div>
+							<div><a href="https://www.belk.com/#bcc-account-modal" style="text-decoration:none">Pay My Bill</a></div>
+							<div><a href="https://www.belk.com/#bcc-account-modal" style="text-decoration:none">Manage My Account</a></div>
+							<div><a href="https://www.belk.com/customer-service/rewards/" style="text-decoration:none">Belk Rewards+Credit Card Benifits</a></div>
+						</ul>
+						
+					</div>
+				   
+					<div class="footer-column">
+						<h4>About Belk</h4>
+						<ul>
+						   <div><a href="https://www.belkcareers.com/" style="text-decoration:none">Careers</a></div> 
+						   <div><a href="https://www.belk.com/customer-service/catalogs-ads/" style="text-decoration:none">Catalogs & Ads</a></div>
+						   <div><a href="https://www.belk.com/search/?shopbybrand=root" style="text-decoration:none">Brands We Carry</a></div>
+						   <div><a href="https://newsroom.belk.com/" style="text-decoration:none">Newsroom</a></div> 
+						   <div><a href="https://www.belk.com/customer-service/about-us/behind-the-brand/" style="text-decoration:none">Behind The Brand</a></div>
+						   <div><a href="https://www.belk.com/customer-service/policies-guidelines/vendor-resources/" style="text-decoration:none">Vendor Resources</a></div>
+						   <div><a href="https://events.belk.com/" style="text-decoration:none">Store Events</a></div> 
+						</ul>
+					   
+					</div>
+				   
+				 <div class="footer-column">
+						<h4>Get The Belk App</h4>
+						<div><img width="150px" src="https://cdn.britannica.com/17/155017-050-9AC96FC8/Example-QR-code.jpg" alt=""></div>
+						<div><a href="https://apps.apple.com/us/app/belk/id673347869"><img width="150px" src="https://belk.scene7.com/is/image/Belk/footer-app-ios-badge-2x?&$DWP_ARTWORK$" alt=""></a></div>
+						<div><a href="https://play.google.com/store/apps/details?id=com.belk.android.belk&hl=en"><img width="150px" src="https://belk.scene7.com/is/image/Belk/footer-app-android-badge-2x?&$DWP_ARTWORK$" alt=""></a></div>
+				</div>
+			  </footer>
+		</div>
+		<div class="containermain">
+			<div >
+					
+					<ul>
+						<h2>Stay Connected</h2>
+						<div><a href="https://www.facebook.com/Belk"><li class="fb"><a href="#"><i class="fa-brands fa-facebook-f"></i></a></li></a></div>
+						<li class="twitter"><a href="#"><i class="fa-brands fa-twitter"></i></a></li>
+						<li class="yt"><a href="#"><i class="fa-brands fa-pinterest"></i></a></li>
+						<li class="insta"><a href="#"><i class="fa-brands fa-instagram"></i></a></li>
+						<!-- <li class="github"><a href="#"><i class="fa-brands fa-github"></i></a></li> -->
+						
+					</ul>
+			</div>
+				<div class="container2">
+					<ul >
+						<h3>Get $10 off with email <br> sign-up! Use on top of <br> coupons.</h3>
+						<input id="Search" type="email" placeholder="Enter your email address" >
+						<input type="submit" value="Join" name="" id="join">
+					</ul>
+				</div>
+			</div>
+			<hr>
+		</div>
+		<div>
+			<div class="Bottom1">
+				<a style="text-decoration:none" href="https://www.belk.com/customer-service/terms-of-use/">Terms of Use</a>
+				 <hr>
+				<a style="text-decoration:none" href="https://www.belk.com/customer-service/policies-guidelines/privacy-policy/">Privercy Policy</a>
+				<hr>
+				<a style="text-decoration:none" href="https://www.belk.com/customer-service/policies-guidelines/privacy-policy/#statespecific">State-Specific Privercy Notices</a>
+				<hr>
+				<a style="text-decoration:none" href="https://www.belk.com/">Enable Accessibility</a>
+				<hr>
+				<a style="text-decoration:none" href="https://www.belk.com/customer-service/policies-guidelines/accessibility-statement/">Accessibility Statement</a>
+			</div>
+			<div class="Bottom2">
+				<a style="text-decoration:none" href="https://www.belk.com/customer-privacy-rights-request-form.html">DO Not Sell or Share My Personal Information</a>
+				<hr>
+				<a style="text-decoration:none" href="https://www.belk.com/customer-service/about-us/ca-transparency-compliance/">CA Transferancy in Supply Chain</a>
+				<hr>
+				<a style="text-decoration:none" href="https://www.belk.com/sitemap/">Site Map</a>
+				<hr>
+				<a style="text-decoration:none" href="https://www.belk.com/">Feedack</a>
+			</div>
+			<div id="lastline">
+				<h5>© 2022 Belk, Inc. & Belk eCommerce LLC. All Rights Reserved.</h5>
+			</div>
+		</div>
+		<script>
+			function handle() {
+				alert("Item Added Successfully");
+			}
+		</script>
+	</body>
+</html>

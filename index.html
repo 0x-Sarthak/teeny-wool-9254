@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!DOCTYPE html>cart
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css" integrity="sha512-17EgCFERpgZKcm0j0fEq1YCJuyAWdz9KUtv1EjVuaOz8pDnh/0nZxmU6BBXwaaxqoi9PQXnRWqlcDB027hgv9A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <link rel="stylesheet" href="index.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="addCart.css">
 </head>
 <body>
     <header class="belk-header">
@@ -33,13 +34,13 @@
                 </a>
               </div>
               <div class="nav1">
-                <a href="#">
+                <a href="coupons.html">
                   
                    <div class="plus1"><img src="images/coupan.png" alt=""></div>
                 </a>
               </div>
               <div class="nav1">
-                <a href="#">
+                <a href="">
                    
                    <div class="plus1"><img src="images/account.png" alt=""></div>
                 </a>
@@ -47,7 +48,7 @@
               
               <div class="nav1">
                 <a href="#">
-                   <div class="plus1"><img src="images/cart.png" alt=""></div>
+                   <div class="plus1"><img id="mycart" src="images/cart.png" alt=""></div>
                 </a>
               </div>
             </div>
@@ -220,7 +221,7 @@
                         <div>
                         <ul class="dp">
                           <li><h3>Gifts</h3></li>
-                          <li><a href="#"></a>Beuty Gift</li>
+                          <a href="cartSectionMens.html"><li>Beuty Gift</li></a>
                           <li><a href="#"></a>Cozy Soap</li>
                           <li><a href="#"></a>Designer Handbag</li>
                           <li><a href="#"></a>Eco Freindly</li>
@@ -319,7 +320,7 @@
         </div>
     </header>
    <div class="cozy">
-     <a href="#"><img src="images/cozy.png" alt=""></a>
+     <a href="#"><img id="girlimg" src="images/cozy.png" alt=""></a>
    </div>
    <div class="card1">
    <div class="grid1">
@@ -337,6 +338,16 @@
      </div>
    </div>
    </div>
+
+   <div class="mainContainer">
+    <div class="orderSummery">
+        <h3 class="orderHeading">Total items in Cart: <span id="span">0</span> </h3>
+        <button id="checkout">CheckOut</button>
+    </div>
+    <div id="container1">
+    </div>
+    
+</div>
   
    <!-- right at home part start -->
 
@@ -511,12 +522,12 @@
 
 
 
-   <div class="foot1">
+   <div class="footer1">
     <h3>Belk - Shop & Save Today</h3>
     <hr>
     <p>From <a href="">luggage sets</a> to crossbody bags and fine jewelry, you’ll find what you’re shopping for (and so much more!) on belk.com. Shop designer <a href="https://www.belk.com/handbags/">handbags</a>  from many brands including <a href="https://www.belk.com/shop-by-brand/brahmin/">Brahmin</a>  and <a href="https://www.belk.com/shop-by-brand/michael-kors/">Michael Kors,</a> skincare and makeup from your favorites like <a href="https://www.belk.com/shop-by-brand/estee-lauder/">Estée Lauder</a> and <a href="https://www.belk.com/shop-by-brand/clinique/">Clinique</a>  or men’s suits and sport coats from stylish brands like <a href="https://www.belk.com/shop-by-brand/tommy-hilfiger/">Tommy Hilfiger.</a> Get chic in a variety of shoes for women, get active in <a href="">Nike®</a> or get outdoors in <a href="https://www.belk.com/shop-by-brand/columbia/">Columbia</a> and <a href="https://www.belk.com/shop-by-brand/sperry/">Sperry®.</a>  Update your home with <a href="https://www.belk.com/bed-bath/bedding/bedspreads/">bedspreads</a>, comforter sets and new cookware. Create picture-perfect looks with our large selection of kids’ and baby clothes. Treat yourself to something new with our wide variety of purses, <a href="https://www.belk.com/jewelry/">jewelry</a> and accessories. If you’re searching for luxury gifts, shop our selection of designer watches and <a href="https://www.belk.com/shop-by-brand/le-vian/">Le Vian®</a>  jewelry. No matter your style or your lifestyle, you’ll find something you love at Belk. Happy shopping!</p>
 </div>
-<div class="foot2">
+<div class="footer2">
     <h3>Trending Categories</h3>
     <hr>
     <div id="mygrid1">
@@ -531,7 +542,7 @@
     <a style="text-decoration:none" href="https://www.belk.com/bed-bath/bedding/comforters/">Comforters</a>
     </div>
 </div>
-<div class="foot3">
+<div class="footer3">
     <h3>Trending Brands</h3>
     <hr>
     <div id="mygrid">
@@ -556,7 +567,7 @@
 </div>
 <div>
     <hr>
-    <footer class="footer">
+    <footer class="footer4">
         <div class="container1">
             <div class="row">
             <div class="footer-column">
@@ -609,7 +620,7 @@
         </div>
       </footer>
 </div>
-<div class="container">
+<div class="footcontainer">
     <div >
             
             <ul>
@@ -658,7 +669,6 @@
     </div>
 </div>
 
-
 </body>
 <script
 src="https://code.jquery.com/jquery-3.6.3.min.js"
@@ -688,6 +698,9 @@ if (filtered === false) {
   filtered = false;
 }
 });
+
+
   </script>
 <script src="scripts/index.js"></script>
+<script src="addCart.js"></script>
 </html>

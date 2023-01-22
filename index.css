@@ -310,8 +310,9 @@
     padding: 2%;
     margin-right: 2%;
    }
-   .slider-cont{
-    background-color: #e3b2ad;
+   .slider-cont {
+    background-color: #ECEFF1;
+    margin-bottom: 2%;
    }
   
    .slider{
@@ -331,69 +332,90 @@
   
    .b1{
     border: 1px solid black;
-    gap: 20px;
+    margin-right: 5px;
+   }
+   .b1 h4{
+    font-size: 12px;
+   
    }
 
 
 
 
 
+/* footer part */
 
-   .foot1{
+.body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Open Sans', sans-serif;
+}
+.footer1{
     width: 90%;
     margin: auto;
+    margin-top: 10px;
 }
-.foot1 a{
+.footer1 a{
     color: #00acee;
 }
-.foot1 h3{
+.footer1 h3{
  font-weight:lighter;
 }
-.foot1 p{
+.footer1 p{
     font-weight: normal;
     font-family: 'Open Sans', sans-serif;
     font-size: 14px;
     
     
 }
-.foot2{
+.footer1 hr{
+    margin-bottom: 2%;
+}
+.footer2{
     width: 90%;
     margin: auto;
+    margin-top: 2%;
 }
-.foot2 h3{
+.footer2 h3{
     font-weight:lighter;
    
 }
-.foot2 a{
+.footer2 a{
     border: 1px solid black;
     padding: 10px;
     color: black;
-    margin-right: 5px;
-    margin-left: 5px;
+    margin-right: 1%;
+    margin-left: 1%;
     
 }
-.foot2 hr{
-    margin-bottom: 30px;
+#mygrid1{
+    display: grid;
+    grid-template-columns: repeat(9,1fr);
+    row-gap: 2%;
+    font-size: small;
+}
+.footer2 hr{
+    margin-bottom: 2%;
 }
 #mygrid1 :hover{
     background-color: #CFD8DC;
 }
-.foot3{
+.footer3{
     width: 90%;
     margin: auto;
     margin-top: 3%;
 }
-.foot3 h3{
+.footer3 h3{
     font-weight:lighter;
    
 }
-.foot3 a{
+.footer3 a{
     border: 1px solid black;
     padding: 5%;
     color: black;
     align-items: center;
 }
-.foot3 hr{
+.footer3 hr{
     margin-bottom: 30px;
 }
 #mygrid :hover{
@@ -437,7 +459,7 @@
 }
 .footer-column h4{
     /* justify-content: center; */
-    margin-left: 50px;
+    margin-left: 13px;
     font-family: 'Open Sans', sans-serif;
 }
 #head1 h3{
@@ -452,11 +474,11 @@
  #head1 a{
     color: skyblue;
  }
- .footer{
+ .footer4{
     width: 90%;
     
  }
- .container {
+ .footcontainer {
     width: 100%;
     /* height: 100vh; */
     display: flex;
@@ -464,12 +486,12 @@
     justify-content: center;
     margin-top: 5px;
 }
-.container h2{
+.footcontainer h2{
     font-family: 'Open Sans', sans-serif;
     font-size: 20px;
 }
 
-.container ul {
+.footcontainer ul {
     padding: 1rem;
     list-style: none;
     display: flex;
@@ -478,7 +500,7 @@
     justify-content: center;
 }
 
-.container ul li {
+.footcontainer ul li {
     width: 10px;
     margin: 1rem;
     height: 10px;
@@ -499,7 +521,7 @@ ul li a {
    
 }
 
-.container ul li:hover {
+.footcontainer ul li:hover {
     transform: translate(5px, -5px);
     border-radius: 15px;
 }
@@ -589,5 +611,42 @@ ul li a {
    
     color: gray;
 }
-   
-   
+@media screen and (min-width: 320px) and (max-width: 720px) {
+    body {
+      font-size: 16px;
+    }
+    #mygrid{
+        display: grid;
+        grid-template-columns: repeat(5,1fr);
+        gap: 10px;
+        font-size: small;
+        align-items: center;
+    }
+    #mygrid1{
+        display: grid;
+        grid-template-columns: repeat(5,1fr);
+        row-gap: 2%;
+        font-size: small;
+    }
+  }
+  @media screen and (min-width: 220px) and (max-width: 319px) {
+    body {
+      font-size: 16px;
+    }
+    #mygrid{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        gap: 10px;
+        font-size: small;
+        align-items: center;
+    }
+    #mygrid1{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        row-gap: 2%;
+        font-size: small;
+    }
+  }
+  
+
+  
