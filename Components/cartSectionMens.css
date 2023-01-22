@@ -20,7 +20,8 @@
     height: 45vh;
 }
 .item{
-    border: 1px solid rgba(128, 128, 128, 0.575);
+    cursor: pointer;
+   border: 1px solid rgba(128, 128, 128, 0.575);
    padding: 5px 0px 5px 3px;
    border-left: 0px;
    border-top: 0px;
@@ -80,7 +81,7 @@
     color: rgba(0, 0, 0, 0.792);
 }
 .addToCart{
-    background-color: #d11242d4;
+    background-color: #212121;
     color: white;
     /* margin-top: 15px; */
     padding: 7px 12px;
@@ -102,6 +103,39 @@
     border-top: 1px solid rgba(0, 0, 0, 0.231);
 }
 .select{
+    border: 0px;
+    outline: 0px;
+}
+.Size{
+    background-color: teal;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+}
+.selectDivv{
+    display: flex;
+    justify-content: space-between;
+}
+#price{
+    /* border: 1px solid black; */
+    margin-top: 4px;
+}
+#min{
+    border: 0px;
+    width: 60px;
+    outline: 0px;
+}
+#max{
+    border: 0px;
+    width: 60px;
+    outline: 0px;
+}
+#priceDiv{
+    /* border: 1px solid red; */
+}
+#searchImagePrice{
+    width: 30px;
+    height: 30px;
     border: 0px;
     outline: 0px;
 }

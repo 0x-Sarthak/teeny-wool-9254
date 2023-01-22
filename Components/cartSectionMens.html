@@ -13,41 +13,57 @@
             <div class="topContainer"> 
                 <h4 class="menHeading">Men's Clothing</h4>
                 <div class="topCart">
-                    <div class="item">Active & Outdoor</div>
-                    <div class="item">Designer</div>
-                    <div class="item">Dress Shirt</div>
-                    <div class="item">Graphic Tees</div>
-                    <div class="item">Hoodies & Sweatshirt</div>
-                    <div class="item">Jackets & Coats</div>
-                    <div class="item">Jeans</div>
-                    <div class="item">Pajamas & Loungwear</div>
-                    <div class="item">Pants</div>
-                    <div class="item">Shirt</div>
-                    <div class="item">Shorts</div>
-                    <div class="item">Socks</div>
-                    <div class="item">Sport Cpats & Blazers</div>
-                    <div class="item">Suit Separates</div>
-                    <div class="item">Suits</div>
-                    <div class="item">Sweaters</div>
-                    <div class="item">Swim Trunks</div>
-                    <div class="item">Underwear</div>
+                    <div class="item" id="active">Active & Outdoor</div>
+                    <div class="item" id="designer">Designer</div>
+                    <div class="item" id="jackets">Jackets & Coats</div>
+                    <div class="item" id="jeans">Jeans</div>
+                    <div class="item" id="shirt">Shirt</div>
+                    <div class="item" id="graphic">Graphic Tees</div>
+                    <div class="item" id="hoodies">Hoodies & Sweatshirt</div>
+                    <div class="item" id="dressShirt">Dress Shirt</div>
+                    <div class="item" id="pajama">Pajamas & Loungwear</div>
+                    <div class="item" id="pants">Pants</div>
+                    <div class="item" id="shorts">Shorts</div>
+                    <div class="item" id="sock">Socks</div>
+                    <div class="item" id="sport">Sport Cpats & Blazers</div>
+                    <div class="item" id="suitSepate">Suit Separates</div>
+                    <div class="item" id="suit">Suits</div>
+                    <div class="item" id="sweater">Sweaters</div>
+                    <div class="item" id="swim">Swim Trunks</div>
+                    <div class="item" id="underwear">Underwear</div>
                 </div>
                 <div class="bottomCart">
                     <div class="selectDiv" id="selectDiv">
-                        <p id="size">Size</p>
-                        <select name="" id="size" class="select"></select>
+                        <p id="sizeP">Size</p>
+                        <select id="size" class="select">
+                            <option value="" disabled selected hidden></option>
+                            <option value="S">S</option>
+                            <option value="M">M</option>
+                            <option value="L">L</option>
+                            <option value="XL">XL</option>
+                            <option value="XXL">XXL</option>
+                        </select>
                     </div>
+                    <!-- <div class="selectDiv">
+                        <p id="colorP">Color</p>
+                        <select name="" id="color" class="select">
+                            <option value="" disabled selected hidden></option>
+                            <option value="">Red</option>
+                            <option value="">Orange</option>
+                            <option value="">Black</option>
+                            <option value="">Pink</option>
+                            <option value="">White</option>
+                        </select>
+                    </div> -->
                     <div class="selectDiv">
-                        <p id="color">Color</p>
-                        <select name="" id="size" class="select"></select>
+                        <p id="brandB">Brand</p>
+                        <select name="" id="brand" class="select"></select>
                     </div>
-                    <div class="selectDiv">
-                        <p id="brand">Brand</p>
-                        <select name="" id="size" class="select"></select>
-                    </div>
-                    <div class="selectDiv">
-                        <p id="size">Size</p>
-                        <select name="" id="size" class="select"></select>
+                    <div id="priceDiv" class="selectDivv">
+                        <p id="price">Price</p>
+                       <input id="min" type="text" placeholder="MinAmt">
+                       <input id="max" type="text" placeholder="MaxAmt">
+                       <img id="searchImagePrice" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz1suOaJg8TNh8ZH-8dm3IXIDKSEA7KrxuYA&usqp=CAU" alt="">
                     </div>
                 </div>
             </div> 

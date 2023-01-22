@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="dropWomen.css">
     <link rel="stylesheet" href="dropMen.css">
     <link rel="stylesheet" href="dropKids.css">
+    <link rel="stylesheet" href="addCart.css">
 </head>
 <body>
     <!-- NAV BAR Start HERE ------->
@@ -20,7 +21,7 @@
         </div>
         <div class="midNav">
             <div class="leftMid">
-                <p id="logo">belk</p>
+                <h1 id="logo">belk</h1>
                 <input id="input" type="text" placeholder="What can we help you find?">
                 <button type="submit"><img id="searchImage" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz1suOaJg8TNh8ZH-8dm3IXIDKSEA7KrxuYA&usqp=CAU" alt=""></button>
             </div>
@@ -72,6 +73,16 @@
     </div>
     <!------- NAV BAR END HERE ----------->
 
+    <!----------- Add to cart--------->
+    <div id="mainContainer">
+        <div class="orderSummery">
+            <h3 class="orderHeading">Total items in Cart: <span id="span">0</span> </h3>
+            <button id="checkout">CheckOut</button>
+        </div>
+        <div id="container1">
+        </div>
+        
+    </div>
     <!------------ DROP DOWN START HERE-------->
 
     <!------------- For Gifts ------------>
@@ -307,19 +318,19 @@
         <div class="dropCartKids">
             <div class="droprightKids">
                 <h5 id="giftsKids" class="giftsHeadingKids">Kids</h5>
-                <p id="newArrivalsKids" class="giftsHeadingKids">New Arrivals</p>
-                <p id="babyEssentialsKids" class="giftsHeadingKids">Baby Essentials</p>
-                <p id="birthdayKids" class="giftsHeadingKids">Birthday & Holiday</p>
-                <p id="characterShopKids" class="giftsHeadingKids">Character Shop</p>
-                <p id="theCultureKids" class="giftsHeadingKids">The Culture Shop</p>
-                <p id="dresswearKids" class="giftsHeadingKids">Dresswear</p>
-                <p id=" familySleepKids" class="giftsHeadingKids">Family of Sleep</p>
-                <p id="giftShopKids" class="giftsHeadingKids">Gift Shop</p>
-                <p id="kidsShoesKids" class="giftsHeadingKids">Kids'Shoes</p>
-                <p id="nurseryDecorKids" class="giftsHeadingKids">Nursery & Decor</p>
-                <p id="toysGamesKids" class="giftsHeadingKids">Toys & Games</p>
-                <p id="babyKidsClearance" class="giftsHeadingKids">Baby & Kids Clearance</p>              
-                <p id="giftCardKids" class="giftsHeadingKids ">Gift Cards</p>
+                <p id="newArrivalsKids" class="allGiftsRightKids">New Arrivals</p>
+                <p id="babyEssentialsKids" class="allGiftsRightKids">Baby Essentials</p>
+                <p id="birthdayKids" class="allGiftsRightKids">Birthday & Holiday</p>
+                <p id="characterShopKids" class="allGiftsRightKids">Character Shop</p>
+                <p id="theCultureKids" class="allGiftsRightKids">The Culture Shop</p>
+                <p id="dresswearKids" class="allGiftsRightKids">Dresswear</p>
+                <p id=" familySleepKids" class="allGiftsRightKids">Family of Sleep</p>
+                <p id="giftShopKids" class="allGiftsRightKids">Gift Shop</p>
+                <p id="kidsShoesKids" class="allGiftsRightKids">Kids'Shoes</p>
+                <p id="nurseryDecorKids" class="allGiftsRightKids">Nursery & Decor</p>
+                <p id="toysGamesKids" class="allGiftsRightKids">Toys & Games</p>
+                <p id="babyKidsClearance" class="allGiftsRightKids">Baby & Kids Clearance</p>              
+                <p id="giftCardKids" class="allGiftsRightKids ">Gift Cards</p>
             </div>
             <div class="dropLeftKids">
                 <div class="topDivKids">
@@ -389,4 +400,5 @@
 <script src="dropWomen.js"></script>
 <script src="dropMen.js"></script>
 <script src="dropKids.js"></script>
+<script src="addCart.js"></script>
 </html>
