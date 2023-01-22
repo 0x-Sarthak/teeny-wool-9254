@@ -3,6 +3,12 @@ let container = document.getElementById("mainContainer")
 let container1 = document.getElementById("container1")
 let span = document.getElementById("span");
 
+let bag = document.getElementById("bag");
+bag.addEventListener(("click"),()=>{
+    console.log("Hello")
+    document.querySelector('.mainContainer').classList.add('showCart')
+})
+
 console.log(addData)
 showCart(addData);
 

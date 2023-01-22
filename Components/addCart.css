@@ -1,15 +1,18 @@
 
 
-#mainContainer{
+.mainContainer{
     width: 32%;
     height: 600px;
     left: 40%;
-    top: 60%;
+    top: -60%;
     position: fixed;
     z-index: 100;
     background-color: rgba(128, 128, 128, 0.973);
     transform: translate(88%,-45%);
     transition: 500ms;
+}
+.showCart{
+    top: 60%;
 }
 #container1{
     margin-top: 20px;
