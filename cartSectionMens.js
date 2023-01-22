@@ -1,5 +1,6 @@
 const activeUrl = 'http://localhost:3000/users?_limit=100&_page=2'
 const designerUrl = 'http://localhost:3000/users?_limit=50&_page=5'
+
 let right = document.querySelector(".right");
 let designer = document.getElementById("designer");
 let active = document.getElementById("active");

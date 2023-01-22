@@ -46,7 +46,7 @@
               
               <div class="nav1">
                 <a href="#">
-                   <div class="plus1"><img src="images/cart.png" alt=""></div>
+                   <div class="plus1"><img id="mycart" src="images/cart.png" alt=""></div>
                 </a>
               </div>
             </div>
@@ -318,7 +318,15 @@
         </div>
     </header>
 
-    
+    <div class="mainContainer">
+        <div class="orderSummery">
+            <h3 class="orderHeading">Total items in Cart: <span id="span">0</span> </h3>
+            <button id="checkout">CheckOut</button>
+        </div>
+        <div id="container1">
+        </div>
+        
+    </div>
       
 
 
@@ -394,4 +402,13 @@
     
 </body>
 <script src="cartSectionMens.js"></script>
+<script>
+    let myCart = document.getElementById("mycart");
+
+    myCart.addEventListener(("click"),()=>{
+  document.querySelector('.mainContainer').classList.add('showCart')
+//   console.log("clicked it")
+})
+
+</script>
 </html>

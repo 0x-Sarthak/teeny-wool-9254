@@ -149,7 +149,7 @@
  }
  
  /* .drp:hover .drop-menu {
-    
+
    display: block;
    align-items: flex-start;
  } */
@@ -244,6 +244,7 @@
     color: rgba(0, 0, 0, 0.792);
 }
 .addToCart{
+    cursor: pointer;
     background-color: #212121;
     color: white;
     /* margin-top: 15px; */
