@@ -22,6 +22,16 @@ Features :
 
 ---> Checkout different types of Clothing items
 
+![image](https://user-images.githubusercontent.com/112808279/216973453-942720b8-3b0f-44b4-a0fd-ed4557d8dad8.png)
+
+![image](https://user-images.githubusercontent.com/112808279/216973527-f9e0cabe-591d-48e6-a7c5-0bbbbc71e36d.png)
+
+![image](https://user-images.githubusercontent.com/112808279/216973706-e6ddf184-1702-4924-ba7d-a072fc41f0bd.png)
+
+![image](https://user-images.githubusercontent.com/112808279/216973806-086367b6-93fc-4a48-982b-533fd7313c5c.png)
+
+![image](https://user-images.githubusercontent.com/112808279/216973876-4dadffe7-cb64-4093-a578-32faf7ed26b6.png)
+
 ------
 
 ---> Add item to cart
